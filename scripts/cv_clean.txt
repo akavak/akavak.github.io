@@ -1,0 +1,746 @@
+Prof. ADNAN KAVAK
+Personal Information
+Office Phone: +90 262 303 3567
+Email: akavak@kocaeli.edu.tr
+Other Email: dr.adnankavak@gmail.com
+Web: https://avesis.kocaeli.edu.tr/akavak
+International Researcher IDs
+ORCID: 0000-0001-5694-8042
+Yoksis Researcher ID: 7641
+Education
+Undergraduate, Kocaeli Health and Technology University, School of Health Sceinces,
+Physiotherapy and Rehabilitation (4 years program), Turkey 2021 - Present
+Doctorate, The University of Texas at Austin, School of Engineering, Electrical and Computer
+Engineering, United States Of America 1996 - 2000
+Postgraduate, The University of Texas at Austin, School of Engineering, Electrical and
+Computer Engineering, United States Of America 1994 - 1996
+Undergraduate, Middle East Technical University, Faculty Of Engineering, Department Of
+Electrical And Electronics Engineering, Turkey 1987 - 1992
+Foreign Languages
+English, C1 Advanced
+Dissertations
+Doctorate, Vector Propagation Channels For Smart Antenna Wireless Communication Systems, The University Of Texas
+At Austin, Elektrik-Blgisayar Mühendisliği, 2000
+Postgraduate, Grpund Specular Reflection Effects at L band and UHF Band GPS Signals, The University Of Texas At
+Austin, Elektrik-Bilgisayar Mühendisliği, 1996
+Research Areas
+Avesis Research Areas: Communication Networks, Wireless Communication, Computer Networks, bioinformatics,
+Artificial Intelligence, Computer Learning and Pattern Recognition, Telemedicine, Physical therapy and rehabilitation
+WoS Research Areas: Engineering Computing & Technology (Eng), Life Sciences (Life)
+Scopus Research Areas: Health Information Management, Rehabilitation, Health Informatics, Software, Computer
+Science Applications, Computer Networks and Communications, Artificial Intelligence, Computer Science (miscellaneous)
+Academic Positions
+Professor, Kocaeli University, Bilgisayar Mühendisliği Bölümü, 2011 - Continues
+Associate Professor, Kocaeli University, Bilgisayar Mühendisliği Bölümü, 2005 - 2011
+Associate Professor, The University of Texas at Austin, School of Engineering, Electrical and Computer Engineering, 2008
+- 2009Assistant Professor, Kocaeli University, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, 2003 - 2005
+Assistant Professor, Kocaeli University, Teknik Eğitim Fakültesi, Elektronik Ve Bilgisayar Eğitimi Bölümü, 2001 - 2003
+Academic and Administrative Experience
+Kocaeli Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, 2013 - Continues
+Kocaeli Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, 2011 - Continues
+Kocaeli Üniversitesi, Mühendislik Fakültesi, Bilgisayar Mühendisliği Bölümü, 2006 - 2006
+Kocaeli Üniversitesi, Teknik Eğitim Fakültesi, Elektronik Ve Bilgisayar Eğitimi Bölümü, 2001 - 2003
+Kocaeli Üniversitesi, Teknik Eğitim Fakültesi, Elektronik Ve Bilgisayar Eğitimi Bölümü, 2001 - 2003
+ArticlesI. AIDCare: A Technical Proof-of-Concept for Integrating Personalized Nutrition, Physical Activity, and
+AI-Assisted Care in Diabetes Lifestyle Management
+KAVAK A., Jamil M., Arın H. B., İNNER A. B., Fotouhi H., GEZER E., Alkan Ö., CANTÜRK Z., SELEK A., Srivastava G.
+Nutrients, vol.18, no.20, 2026 (SCI-Expanded, Scopus)
+II. AI-Assisted Nutrition Estimation and Exercise Support for Integrated Lifestyle Management in
+Patients with Diabetes
+Jamil M., KAVAK A., Fotouhi H., Rashed M., GEZER E., İNNER A. B., Srivastava G.
+Nutrients, vol.18, no.19, 2026 (SCI-Expanded, Scopus)
+III. Design and Evaluation of a Source-Grounded Medical LLM for Clinical Decision Support and Patient
+Care in Trustworthy Diagnostic Systems
+Jamil M., Kavak A., İlhan Omurca S., Fotouhi H.
+DIAGNOSTICS, vol.16, no.19, 2026 (SCI-Expanded, Scopus)
+IV. A Secure, Lightweight, and Low-Latency Edge–Cloud Architecture for Intelligent V2X Communication
+SystemsBAYRAKTAR S., KAVAK A., Jamil M., Doğru A. C., Farhan M., Aslan G.
+ENGINEERING PROCEEDINGS, vol.154, no.1, pp.73, 2026 (Scopus)
+V. A CSMF- and LLM-Based Hybrid Approach for Charging Station Recommendations in Electrical
+Vehicle Networks
+Sezen Y. E., Jamil M., KAVAK A., BAYRAKTAR S., Aslan G.
+ENGINEERING PROCEEDINGS, vol.154, no.1, pp.42, 2026 (Scopus)
+VI. A Confidence-Aware Hybrid Vision–Language Framework for Food Recognition and Nutritional
+Monitoring
+GÖZ F., Jamil M., KAVAK A., Bayraktar S., Doğru A. C., Srivastava G., Fotouhi H.
+Nutrients, vol.18, no.15, 2026 (SCI-Expanded, Scopus)
+VII. Digital Twins for 6G V2X Communication in ICE Ecosystems
+Khan S. A., Kavak A., Küçük K., Chaudhry S. A.
+IEEE CONSUMER ELECTRONICS MAGAZINE, vol.15, no.4, pp.84-92, 2026 (SCI-Expanded, Scopus)
+VIII. A Hybrid CNN–MLLM Architecture for Image-Based Nutrition Estimation and Advisory Insulin
+Decision Support in Type 1 Diabetes
+Velombe J. C., Bayraktar S., KAVAK A., Jamil M., İNNER A. B., Srivastava G., Fotouhi H.
+Nutrients, vol.18, no.13, 2026 (SCI-Expanded, Scopus)
+IX. A Multi-Source Retrieval-Augmented Large Language Model Architecture for Trustworthy
+Conversational AI in Diabetes Care
+Jamil M., KAVAK A., Bayraktar S., İNNER A. B., Doğru A. C., Srivastava G.
+IEEE Access, vol.14, pp.117295-117309, 2026 (SCI-Expanded, Scopus)
+X. Optimizing Relay Selection in D2D Communication for Next-Generation Wireless Networks Using
+Multi-Agent Reinforcement Learning: A Novel Approach
+Sirma M., KAVAK A., İNNER A. B.
+Wireless Personal Communications, vol.140, no.3, pp.945-969, 2025 (SCI-Expanded, Scopus)
+XI. Hybrid 3D Mesh Reconstruction Models of CT Images for Deep Learning Based Classification of
+Kidney Tumors †
+Demirtaş M. A., İNNER A. B., KAVAK A.
+Engineering Proceedings, vol.104, no.1, 2025 (Scopus)
+XII. Implementation of a Decision Support Mechanism on a Mobile Platform Using Clinical Evidence-
+Based Dynamic Insulin Dosage Adjustment for Artificial Intelligence-Enabled Diabetes Care
+(AIDCARE) System †
+Üçer Ö. F., KAVAK A., Demirhan Y., Uzun M., Savaş B., İNNER A. B., ALKAN Ö., ARSLAN B., CANTÜRK Z., SELEK A., et
+al.Engineering Proceedings, vol.104, no.1, 2025 (Scopus)
+XIII. Artificial Intelligence Based Customer Risk Classification for Receivables Management of Business
+esTiryaki Ş. C., KAVAK A.
+Journal of Artificial Intelligence and Data Science (JAIDA), vol.4, no.2, pp.97-103, 2024 (TRDizin)
+XIV. Relay Assisted Device-to-Device Communication for Future Generation Wireless Networks: A Review
+from Architectural and Challenges Perspective
+Sırma M., KAVAK A.
+International Journal of Emerging Trends in Engineering Research, vol.12, no.10, pp.143-152, 2024 (Peer-
+Reviewed Journal)
+XV. Evaluation of Cloud-Based Dynamic Network Scaling and Slicing for Next-Generation Wireless
+Networks
+Cubukcu A., Cubukcu O., Kavak A., Küçük K.
+Engineering Proceedings , vol.70, no.1, pp.1-12, 2024 (Scopus)
+XVI. Review of Artificial Intelligence Based Beam Tracking Techniques for mmWave 5G and Beyond
+Networks
+Hakım N., Kavak A., Yiğit H.
+International Journal of Emerging Trends in Engineering Research, vol.11, no.5, pp.159-167, 2023 (Peer-Reviewed
+Journal)
+XVII. A Data Transmission Scheme Using K-Means and Fuzzy Logic for IOT Sensor Based Forest Fire
+Detection System
+Sadeq A. A., KAVAK A., Khan S. A.
+International Journal of Emerging Trends in Engineering Research, vol.10, no.10, pp.420-423, 2022 (Peer-
+Reviewed Journal)
+XVIII. Self-adaptive medium access control protocol for aggregated VLC-RF wireless networks
+Kucuk K., Msongaleli D. L., Akbulut O., Kavak A., Bayilmis C.
+OPTICS COMMUNICATIONS, vol.488, 2021 (SCI-Expanded, Scopus)
+XIX. A Clinical Decision Support Method and Mobile Application for Remote Monitoring of Diabetic
+PatientsTalayhan C., KAVAK A.
+Artificial Intelligence Theory and Applications, vol.1, no.2, pp.253-262, 2021 (Peer-Reviewed Journal)
+XX. Machine Learning Based Polyneuropathy Diagnosis Using Electromyogram Data
+Tanık N., KAVAK A.
+Artificial Intelligence Theory and Applications, vol.1, no.2, pp.148-155, 2021 (Peer-Reviewed Journal)
+XXI. An IoT Based Intelligent Traffic Management System and Its Implementation on Cupcarbon for Smart
+Cities
+Oğuz A., Adnan K.
+International Journal of Emerging Trends in Engineering Research, vol.9, no.11, pp.1387-1394, 2021 (Peer-
+Reviewed Journal)
+XXII. Dynamic Routing of Emergency Vehicles with Traffic Management System and Implementation on
+CupCarbon for Smart Cities
+Ahmet Mirza Y., Adnan K.
+International Journal of Emerging Trends in Engineering Research, vol.9, no.11, pp.1407-1412, 2021 (Peer-
+Reviewed Journal)
+XXIII. Comparative performance analysis of cooperative and multi dual-hop relay networks using MGF
+approach
+Asshad M., Kavak A., Küçük K., Ahmad Khan S. A.
+INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS, no.15, 2020 (SCI-Expanded, Scopus)
+XXIV. Using Moment Generating Function for Performance Analysis in Non-Regenerative Cooperative
+Relay Networks with Max-Min Relay Selection
+Asshad M., KAVAK A., KÜÇÜK K., Khan S. A.
+AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS, 2020 (SCI-Expanded, Scopus)
+XXV. Physical Layer Detection of Malicious Relays in LTE-A Network Using Unsupervised Learning
+Yengi Y., KAVAK A., Arslan H.
+IEEE ACCESS, vol.8, pp.154713-154726, 2020 (SCI-Expanded, Scopus)
+XXVI. Cooperative communications using relay nodes for next-generation wireless networks with optimal
+selection techniques: A review
+Asshad M., Khan S. A., Kavak A., Küçük K., Msongaleli D. L.
+IEEJ TRANSACTIONS ON ELECTRICAL AND ELECTRONIC ENGINEERING, no.5, pp.658-669, 2019 (SCI-Expanded,
+Scopus)
+XXVII. Adaptive Polling Medium Access Control Protocol for Optic Wireless Networks
+Msongaleli D. L., Küçük K., Kavak A.
+APPLIED SCIENCES-BASEL, no.6, 2019 (SCI-Expanded, Scopus)
+XXVIII. A Novel Fractional Frequency Reuse Scheme for Interference Management in LTE-A HetNets
+Khan S. A., Kavak A., Colak S., Küçük K.
+IEEE ACCESS, pp.109662-109672, 2019 (SCI-Expanded, Scopus)
+XXIX. A Power Control Algorithm (PCA) and Software Tool for Femtocells in LTE-A Networks
+KHAN S. A., ASHAD m., KÜÇÜK K., KAVAK A.
+Sakarya University Journal of Science, vol.22, pp.1124-1129, 2018 (TRDizin)
+XXX. Idle Time Estimation for Bandwidth-Efficient Synchronization in Replicated Distributed File System
+GULAGIZ F., EKEN S., KAVAK A., SAYAR A.
+INTERNATIONAL ARAB JOURNAL OF INFORMATION TECHNOLOGY, vol.15, no.2, pp.177-185, 2018 (SCI-Expanded,
+Scopus)
+XXXI. Throughput Maximization of CSMA in Cognitive Radio Networks with Cooperative Spectrum Sensing
+Atmaca S., Sayli O., Yuan J., KAVAK A.
+WIRELESS PERSONAL COMMUNICATIONS, vol.92, no.4, pp.1473-1492, 2017 (SCI-Expanded, Scopus)
+XXXII. Fall detection using smartphone-based application
+Yıldırım K., UÇAR G., Keskin T., KAVAK A.
+International Journal of Applied Mathematics,Electronics and Computers, vol.4, no.4, pp.140-144, 2016 (TRDizin)
+XXXIII. Analyzing Entity Framework Technology for An Indoor Decoration Based Recommendation System
+KAYA F., Başaran U., KAVAK A.
+JOURNAL OF COMPUTERS, vol.11, no.4, pp.320-328, 2016 (Peer-Reviewed Journal)
+XXXIV. A Comparison of Imputation Techniques using Network Traffic Data
+KAYA F., GÖK O., KAVAK A.
+International Journal of Computer Applications, vol.142, pp.25-29, 2016 (Peer-Reviewed Journal)
+XXXV. A Study on Environmental Effect of Electromagnetic Waves
+KAYA F., GÖZ F., KAVAK A.
+International Journal of Computer Applications, vol.140, pp.35-41, 2016 (Peer-Reviewed Journal)
+XXXVI. Beacon Temelli Sanal Etiket Uygulaması
+KAYA F., GÖZ F., Şahin E., Albayrak M. S., KAVAK A.
+BİLECİK ŞEYH EDEBALİ ÜNİVERSİTESİ FEN BİLİMLERİ DERGİSİ, vol.3, pp.1-7, 2016 (TRDizin)
+XXXVII. A mobile and web application-based recommendation system using color quantization and
+collaborative filtering
+Kaya F., Yildiz G., KAVAK A.
+TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES, vol.23, no.3, pp.900-912, 2015
+(SCI-Expanded, Scopus, TRDizin)
+XXXVIII. Smart and Reconfigurable Antenna Applications in Wireless Sensor Networks
+Yegin K., KAVAK A., Cayirci E., Dandekar K.
+INTERNATIONAL JOURNAL OF DISTRIBUTED SENSOR NETWORKS, 2014 (SCI-Expanded, Scopus)
+XXXIX. Connectivity Analysis for Wireless Sensor Networks with Antenna Array Integrated Central Node
+KÜÇÜK K., KAVAK A.
+WIRELESS PERSONAL COMMUNICATIONS, vol.72, no.2, pp.1361-1371, 2013 (SCI-Expanded, Scopus)
+XL. A modified sectoral sweeper-based localization estimation and its implementation in a multi-hop
+wireles ssensor networking environment by using OPNET
+KÜÇÜK K., Bandirmali N., KAVAK A., ATMACA S.
+SIMULATION-TRANSACTIONS OF THE SOCIETY FOR MODELING AND SIMULATION INTERNATIONAL, vol.89, no.6,
+pp.746-761, 2013 (SCI-Expanded, Scopus)
+XLI. A learning approach in link adaptation for MIMO-OFDM systems
+YİĞİT H., KAVAK A.
+TURKISH JOURNAL OF ELECTRICAL ENGINEERING AND COMPUTER SCIENCES, vol.21, no.5, pp.1465-1478, 2013
+(SCI-Expanded, Scopus, TRDizin)
+XLII. Analytical Derivation of 2 x 2 MIMO Channel Capacity in Terms of Multipath Angle Spread and Signal
+StrengthYİĞİT H., KAVAK A.
+FREQUENZ, vol.66, pp.97-100, 2012 (SCI-Expanded, Scopus)
+XLIII. FPGA Based Implementation and Comparison of Beamformers for CDMA2000
+Dıkmese S., Kavak A., Küçük K., Şahin S., Tangel A.
+WIRELESS PERSONAL COMMUNICATIONS, vol.57, pp.233-253, 2011 (SCI-Expanded, Scopus)
+XLIV. Scalable location estimation using smart antennas in wireles ssensor networks
+KÜÇÜK K., KAVAK A.
+AD HOC NETWORKS, vol.8, no.8, pp.889-903, 2010 (SCI-Expanded, Scopus)
+XLV. Digital signal processor against field programmable gate array implementations of space-code
+correlator beamformer for smart antennas
+Dikmese S., Kavak A., Küçük K., Şahin S., Tangel A., Dıncer H.
+IET MICROWAVES ANTENNAS & PROPAGATION, vol.4, pp.593-599, 2010 (SCI-Expanded, Scopus)
+XLVI. Capacity Improvement for TDD-MIMO Systems via AR Modeling Based Linear Prediction
+YİĞİT H., KAVAK A., KÜÇÜK K.
+WIRELESS PERSONAL COMMUNICATIONS, vol.52, no.2, pp.411-418, 2010 (SCI-Expanded, Scopus)
+XLVII. A Practical Space-Code Correlator Receiver for DSP Based Software Radio Implementation in
+CDMA2000
+KÜÇÜK K., KAVAK A., KARAKOC M., YİĞİT H., Ozdemir C.
+WIRELESS PERSONAL COMMUNICATIONS, vol.49, no.2, pp.245-261, 2009 (SCI-Expanded, Scopus)
+XLVIII. Genetic approach for dynamic OVSF code allocation in 3G wireless networks
+Karakoc M., KAVAK A.
+APPLIED SOFT COMPUTING, vol.9, no.1, pp.348-361, 2009 (SCI-Expanded, Scopus)
+XLIX. Interference analysis and capacity for forward link 3G CDMA network with adaptive antennas
+KAVAK A., Karakoc M., Torlak M., ÖZDEMİR C.
+WIRELESS COMMUNICATIONS & MOBILE COMPUTING, vol.8, no.4, pp.531-543, 2008 (SCI-Expanded, Scopus)
+L. Smart antenna based OVSF code assignment for WCDMA networks
+KAVAK A., Karakoc M.
+WIRELESS PERSONAL COMMUNICATIONS, vol.43, no.4, pp.1761-1766, 2007 (SCI-Expanded, Scopus)
+LI. Performance of adaptive antenna array based dynamic OVSF code assignment for multipath
+propagation and multicell environment
+Karakoc M., KAVAK A.
+FREQUENZ, vol.61, pp.254-258, 2007 (SCI-Expanded, Scopus)
+LII. A synthetic aperture radar-based focusing algorithm for B-SCAN ground penetrating radar imagery
+Yigit E., Demirci S., Ozdemir C., Kavak A.
+MICROWAVE AND OPTICAL TECHNOLOGY LETTERS, vol.49, no.10, pp.2534-2540, 2007 (SCI-Expanded, Scopus)
+LIII. A hyperbolic summation method to focus B-scan ground penetrating radar images: An experimental
+study with a stepped frequency system
+Ozdemir C., Demirci S., Yigit E., Kavak A.
+MICROWAVE AND OPTICAL TECHNOLOGY LETTERS, vol.49, no.3, pp.671-676, 2007 (SCI-Expanded, Scopus)
+LIV. Üçüncü Nesil CDMA Sistemler İçin Yeni Bir Akıllı Anten Algoritması Gerçekleştirilmesi ve Performans
+AnaliziKüçük K., Mustafa K., Kavak A., Yiğit H.
+JOURNAL OF THE FACULTY OF ENGINEERING AND ARCHITECTURE OF GAZI UNIVERSITY, vol.21, no.4, pp.801-808,
+2006 (Scopus, TRDizin)
+LV. The sectoral sweeper scheme for wireles ssensor networks: Adaptive antenna array based sensor
+node management and location estimation
+Erdogan A., Coskun V., Kavak A.
+WIRELESS PERSONAL COMMUNICATIONS, vol.39, no.4, pp.415-433, 2006 (SCI-Expanded, Scopus)
+LVI. Implementation and Performance Analysis of a Novel Smart Antenna Algorithm for 3G CDMA
+SystemsKÜÇÜK K., MUSTAFA K., KAVAK A., YİĞİT H.
+Journal of The Faculty of Engineering and Architecture of Gazi University, vol.21, pp.801-808, 2006 (Scopus)
+LVII. Using adaline neural network for performance improvement of smart antennas in TDD wireless
+communications
+Kavak A., Yigit H., Ertunc H. M.
+IEEE TRANSACTIONS ON NEURAL NETWORKS, vol.16, no.6, pp.1616-1625, 2005 (SCI-Expanded, Scopus)
+LVIII. Design and Implementation of Floating Point Arithmetics on FPGA using VHDL
+ŞAHİN S., KAVAK A.
+Journal of Naval Science and Engineering, vol.3, pp.57-70, 2005 (Peer-Reviewed Journal)
+LIX. Adaptive Linear Prediction based Downlink Beamforming for Wireless Communication Systems
+YİĞİT H., KAVAK A.
+GAZI UNIVERSITY JOURNAL OF SCIENCE, vol.18, pp.409-419, 2005 (Peer-Reviewed Journal)
+LX. Autoregressive and neural network model based predictions for downlink beamforming
+YİĞİT H., Kavak A., Ertunc M.
+ADVANCES IN NEURAL NETWORKS - ISNN 2004, PT 2, vol.3174, pp.254-261, 2004 (SCI-Expanded, Scopus)
+LXI. Overview of Smart Antenna Methodologies for Mobile Communications
+KARAKOÇ M., YİĞİT H., KÜÇÜK K., KAVAK A.
+Journal of Naval Science and Engineering, vol.2, pp.51-66, 2004 (Peer-Reviewed Journal)
+LXII. Spatial and temporal fading correlations of a uniform circular array smart antenna in urban
+vehicular propagation
+Kavak A.MICROWAVE AND OPTICAL TECHNOLOGY LETTERS, vol.40, no.1, pp.61-65, 2004 (SCI-Expanded, Scopus)
+LXIII. Evaluation of smart antenna algorithms for cdma2000 reverse link
+Karakoc M., Kavak A.
+NETWORKING 2004, vol.3042, pp.1360-1365, 2004 (SCI-Expanded, Scopus)
+LXIV. Software radio implementation of a smart antenna system on digital signal processors for cdma2000
+Kucuk K., KARAKOC M., KAVAK A.
+INTELLIGENT INFORMATION TECHNOLOGY, PROCEEDINGS, vol.3356, pp.97-106, 2004 (SCI-Expanded, Scopus)
+LXV. Characteristics of vector propagation channels in dynamic mobile scenarios
+Kavak A., Yang W., Xu G., Vogel W.
+IEEE TRANSACTIONS ON ANTENNAS AND PROPAGATION, vol.49, no.12, pp.1695-1702, 2001 (SCI-Expanded,
+Scopus)
+LXVI. Mobile transmit diversity for base-station antenna arrays
+Kavak A., Xu G.
+MICROWAVE AND OPTICAL TECHNOLOGY LETTERS, vol.30, no.2, pp.95-97, 2001 (SCI-Expanded, Scopus)
+LXVII. Vector channels for smart antennas - Measurements statistical modeling, and directional properties
+in outdoor environments
+Kavak A., Torlak M., Vogel W., Xu G.
+IEEE TRANSACTIONS ON MICROWAVE THEORY AND TECHNIQUES, vol.48, no.6, pp.930-937, 2000 (SCI-Expanded,
+Scopus)
+LXVIII. Using GPS to measure ground complex permittivity
+Kavak A., Vogel W., Xu G.
+ELECTRONICS LETTERS, vol.34, no.3, pp.254-255, 1998 (SCI-Expanded, Scopus)
+BooksI. Symbiotic Sensing and Backscatter Communication for the Sustainable Internet of Things
+Janjua M. B., Etemoğlu Ç. Ö., Solaija M. S. J., KAVAK A.
+in: Signals and Communication Technology, Springer International Publishing Ag, pp.99-118, 2026
+II. A Novel Signaling Protocol (ARCSPXP): Case Study on Synchronization of Educational Data
+EKEN S., KAYA F., SAYAR A., KAVAK A., İLHAN Z., KOCASARAÇ U.
+in: Mobile Networks and Management, Ramón Agüero, Yasir Zaki, Bernd-Ludwig Wenning, Anna Förster, Andreas
+Timm-Giel, Editor, Springer International Publishing, 2017
+III. A Method for Localization of Computational Node and Proxy Server in Educational Data
+Synchronization
+KAYA F., EKEN S., SAYAR A., KAVAK A., ŞAHİN S.
+in: Wireless Internet Lecture Notes of the Inst A Method for Localization of Computational Node and Proxy Server
+in Educational Data Synchronization, Mumtaz, S., Rodriguez, J., Katz, M., Wang, C., Nascimento, A. (Eds.), Editor,
+Springer, pp.180-190, 2015
+IV. A method for localization of computational node and proxy server in educational data
+synchronization
+EKEN S., KAYA F., SAYAR A., KAVAK A.
+in: Wireless Internet, Mumtaz Shahid, Rodriguez Jonathan, Katz Marcos, Wang Chonggang, Nascimento Alberto,
+Editor, Springer, 2015
+V. Implementation of floating point arithmetics using an FPGA
+ŞAHİN S., KAVAK A., BECERİKLİ Y., demiray h. e.
+in: Mathematical Methods in Engineering Edits, K. Taş, J. A. Tenreiro Machado, D. Baleanu, Editor, Springer, pp.445-
+453, 2007
+Papers Presented at Peer-Reviewed Scientific Conferences
+I. Secure Authentication and Privacy-Preserving Localization for V2X Communications in Next-
+Generation Vehicular Networks
+Jamil M., KAVAK A., Bayraktar S., ASLAN G., Canbolat C.
+9th International Balkan Conference on Communications and Networking, Balkancom 2026, Ulcinj, Montenegro, 16
+- 19 June 2026, (Full Text)
+II. Performance Evaluation of Conventional and AI-Aided Detectors for AmBC in Multi-Tap Channels
+Arslan A., Solaija M. S. J., Janjua M. B., KAVAK A.
+9th International Balkan Conference on Communications and Networking, Balkancom 2026, Ulcinj, Montenegro, 16
+- 19 June 2026, pp.60-65, (Full Text)
+III. Fine-Tuning Open-Weight LLMs for Connected Health Management: A Case Study for Diabetes
+Management
+Doǧru A. C., Canbolat C., Bayraktar S., Jamil M., KAVAK A.
+2026 IEEE International Black Seas Conference on Communications and Networking, BlackSeaCom 2026,
+Bucharest, Romania, 8 - 11 June 2026, (Full Text)
+IV. Slice-Aware Handover Management for MEC Services Using 3GPP APIs Towards 6G
+Çubukçu A., Çubukçu Ö., Kavak A., Küçük K.
+2025 Conference on Standards for Communications and Networking-CSCN-Annual, Bologna, Italy, 15 - 17
+September 2025, (Full Text)
+V. SDN and NFV Based Dynamic QoS Management for 5G and Beyond Networks
+Çubukçu Ö., Çubukçu A., Kavak A., Küçük K.
+2024 32nd Signal Processing and Communications Applications Conference (SIU), Mersin, Turkey, 15 - 18 May
+2024, pp.1-4, (Full Text)
+VI. Performance Evaluation of 5G RAN Slicing in terms of Physical Resource Usage
+Çubukçu A., Çubukçu Ö., Kavak A., Küçük K.
+2024 32nd Signal Processing and Communications Applications Conference (SIU), Mersin, Turkey, 01 May 2024,
+pp.1-4, (Full Text)
+VII. A Study on Slice-Aware Industrial Edge Applications for Next-Generation Private Networks
+Çubukçu A., Çubukçu Ö., Sabucu Sandal Y., Kavak A., Küçük K.
+4th International Informatics and Software Engineering Conference, Ankara, Turkey, 21 December 2023, (Full
+Text)
+VIII. Cloud Based IoE Connectivity Engines for The Next Generation Networks: Challenges and
+Architectural Overview
+Sırma M., KAVAK A., İNNER A. B.
+2019 1st International Informatics and Software Engineering Conference (UBMYK), Ankara, Turkey, Turkey, 6 - 07
+November 2019, (Full Text)
+IX. Performance Analysis of Multi-Node Cooperative Network with Amplify and Forward Relay Protocol
+Asshad M., Ahmad S. A., KAVAK A., KÜÇÜK K.
+1st International Informatics and Software Engineering Conference, IISEC 2019, Ankara, Turkey, 6 - 07 November
+2019, (Full Text)
+X. Evaluation of Multi Dual-Hop and Cooperative Relay Networks using MGF Based Analysis
+Ashad M., Khan S. A., Kavak A., Küçük K.
+1st International Informatics and Software Engineering Conference, IISEC 2019, Ankara, Turkey, 6 - 07 November
+2019, (Full Text)
+XI. A User Location Distribution Based FFR Strategy for Efficient Utilization of Radio Resources in LTE-
+A HetNets
+Khan S. A., ALDIRMAZ ÇOLAK S., KAVAK A., KÜÇÜK K.
+1st International Informatics and Software Engineering Conference, IISEC 2019, Ankara, Turkey, 6 - 07 November
+2019, (Full Text)
+XII. Malicious Relay Node Detection with Unsupervised Learning in Amplify-Forward Cooperative
+Networks
+Yengi Y., Kavak A., Arslan H., Küçük K., Yiğit H.
+International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT),
+Sitrah, Bahrain, 22 - 23 September 2019, pp.1-5, (Full Text)
+XIII. A New Fractional Frequency Reuse Method for Interference Management in LTE-A HetNets
+Khan S. A., Kavak A., Küçük K., Asshad M.
+27th Signal Processing and Communications Applications Conference (SIU), Sivas, Turkey, 24 - 26 April 2019, (Full
+Text)
+XIV. Tarım Arazisinde Dikili Fidanların Gelisim ve Verimlilik Takibi icin Cografi Bilgi Sistemlerine Dayalı
+Mobil Uygulama Gelistirilmesi
+Erbay G., KAVAK A., İNNER A. B.
+International Symposiım on Innovative Approaches in Scientific Studies (ISAS Winter 2018), Samsun, Turkey, 30
+November - 02 December 2018, pp.764-768, (Full Text)
+XV. QRS detection on IOS platform based on single channel practical ECG measurement for remote
+patient monitoring
+Avcu F., KAVAK A., İNNER A. B.
+2018 26th Signal Processing and Communications Applications Conference (SIU), İzmir, Turkey, 2 - 05 May 2018,
+(Full Text)
+XVI. ALTHIS: Design of An End to End Integrated Remote Patient Monitoring System and a Case Study for
+Diabetic Patients
+KAVAK A., İNNER A. B.
+Medical Technologies National Congress (TIPTEKNO), Magusa, CYPRUS, 8 - 10 November 2018, (Full Text)
+XVII. Lucrative Data Center Transformation Strategies at Digital Age Wins to Business Infinity
+Sırma M., KAVAK A.
+4TH INTERNATIONAL CONFERENCE ON“INNOVATIVE TRENDS IN MULTIDISCIPLINARY ACADEMIC RESEARCH”
+(ITMAR-2017), İstanbul, Turkey, 20 - 21 October 2017, (Full Text)
+XVIII. A novel signaling protocol (ARCSPXP): Case study on synchronization of educational data
+EKEN S., Gülağız F., SAYAR A., KAVAK A., KOCASARAÇ U., İLHAN Z.
+8th EAI International Conference on Mobile Networks and Management, MONAMI 2016, Abu Dhabi, United Arab
+Emirates, 23 - 24 October 2016, vol.191, pp.31-43, (Full Text)
+XIX. Big Data Overview With Open Challenges and Research Areas
+Oktay T., KAVAK A.
+International Science and Technology Conference (ISTEC 2016), Viyana, Austria, 13 - 15 July 2016, pp.189, (Full
+Text)
+XX. Transport Power Control Algorithm for LTE A Femtocell Networks
+Khan S. A., KAVAK A., Ashad M., KAYA F.
+ICAT 2016, Konya, Turkey, 1 - 03 October 2016, pp.204-207, (Full Text)
+XXI. TRANSMIT POWER CONTROL TPC ALGORITHM FOR LTE A FEMTOCELL NETWORKS
+Khan S. A., KAVAK A., Asshad M., KAYA F.
+3rd International Conference on Advanced Technology & Sciences, Konya, Turkey, 1 - 03 September 2016, (Full
+Text)
+XXII. A Study Based on Clustering Techniques in Data Mining Comparison of Farthest First Clustering
+Density Based Clustering K means and K Medoids Algorithms
+KAYA F., KAVAK A.
+INSODE 2016, Antalya, Turkey, 12 - 14 May 2016, pp.24, (Summary Text)
+XXIII. Design and Implementation of a Communication Protocol for Mobile Device Controlled Smart Home
+Management System
+MENTEŞOĞLU m., KAVAK A., YAKUT M., TANGEL A., ŞAHİN S., ÖZCAN H.
+SİU2015, Turkey, 16 - 19 May 2015, (Full Text)
+XXIV. A Cluster Based Routing Approach in LTE Ad-hoc Networks
+Karahan A., KAVAK A., Atmaca S.
+International Conference on Information and Communication Technology Research (ICTRC 2015), Abu Dhabi,
+United Arab Emirates, 17 - 19 May 2015, pp.250-253, (Full Text)
+XXV. A Method for Localization of Computational Node and Proxy Server in Educational Data
+Synchronization
+EKEN S., Kaya F., SAYAR A., KAVAK A., ŞAHİN S.
+8th International Wireless Internet Conference (WICON), Lisbon, Portugal, 13 - 14 November 2014, pp.180-190,
+(Full Text)
+XXVI. Estimation of Idle Time for Synchronization: A Case Study on Fatih Project
+Gulagiz F., EKEN S., KAVAK A., SAYAR A.
+23nd Signal Processing and Communications Applications Conference (SIU), Malatya, Turkey, 16 - 19 May 2015,
+pp.1158-1161, (Full Text)
+XXVII. Fatih Projesinde Proxy Sunucunun Doğru Konumlandırıldığının Kontrol Edilmesi ve Tabletlerinin
+Yerini Tespit için Bir Metot
+EKEN S., KAYA F., KEREM Ç., SAYAR A., KAVAK A., ŞAHİN S.
+2014 ELEKTRİK - ELEKTRONİK, BİLGİSAYAR ve BİYOMEDİKAL MÜHENDİSLİĞİ SEMPOZYUMU, Turkey, 27 - 29
+November 2014, pp.748-752, (Full Text)
+XXVIII. Bulut Vekil Sunucu ve Tabletler Arasında Veri Senkronizasyonu için RTT Kullanarak Farklı
+Kümeleme Metotlarının Değerlendirilmesi
+EKEN S., KAYA F., GÜNGÖR A., SAYAR A., KAVAK A., ŞAHİN S.
+Elektrik, Elektronik, Bilgisayar ve Biyomedikal Mühendisliği Sempozyumu, Turkey, 27 - 29 November 2014, (Full
+Text)
+XXIX. Bulut Vekil Sunucu ve Tabletler Arasında Veri Senkronizasyonu için RTT Kullanarak Farklı
+Kümeleme Metodlarının Değerlendirilmesi
+EKEN S., KAYA F., GÜNGÖR A., SAYAR A., KAVAK A., ŞAHİN S.
+2014 ELEKTRİK - ELEKTRONİK, BİLGİSAYAR ve BİYOMEDİKAL MÜHENDİSLİĞİ SEMPOZYUMU, Turkey, 27 - 29
+November 2014, pp.670-675, (Full Text)
+XXX. Evaluation of RTT based Clustering Methods for Data Synchronization between Proxy Cloud Servers
+and Tablets
+EKEN S., KAYA F., GÜNGÖR A., SAYAR A., KAVAK A., ŞAHİN S.
+Elektrik - Elektronik, Bilgisayar ve Biyomedikal Mühendisligi Sempozyumu, ELECO 2014, Bursa, Turkey, 27 - 29
+November 2014, pp.670-675, (Full Text)
+XXXI. Bulut Vekil Sunucu ve Tabletler Arasında Veri Senkronizasyonu için RTT Kullanarak Farklı
+Kümeleme Metotlarının Değerlendirilmesi
+EKEN S., KAYA F., Güngör A., SAYAR A., KAVAK A.
+ELECO 2014, Turkey, 27 - 29 November 2014, (Full Text)
+XXXII. A Method for Verifying Accurate Deployment of a Proxy Server and Localization of Tablets in Fatih
+ProjectEKEN S., KAYA F., GÜNGÖR A., SAYAR A., KAVAK A., ŞAHİN S.
+Elektrik - Elektronik, Bilgisayar ve Biyomedikal Mühendisligi Sempozyumu, ELECO 2014, Bursa, Turkey, 27 - 29
+November 2014, pp.748-752, (Full Text)
+XXXIII. Capcha Karakterlerinin Yapay Sinir Ağları Kullanılarak Karşılaştırılması
+EKEN S., KAYA F., SAYAR A., KAVAK A.
+7. Mühendislik ve Teknoloji Sempozyumu, Cankaya Üniversitesi, Ankara, Turkey, 15 - 16 May 2014, pp.7-11, (Full
+Text)
+XXXIV. Döküman Tabanlı NoSQL Veritabanları MongoDB ve CouchDB yatay ölçeklenebilirlik karşılaştırması
+EKEN S., KAYA F., SAYAR A., KAVAK A.
+7. Mühendislik ve Teknoloji Sempozyumu, Cankaya Üniversitesi, Ankara, Turkey, 15 - 16 May 2014, pp.61-67, (Full
+Text)
+XXXV. Doküman Tabanlı NoSQL Veritabanları: MongoDB ve CouchDB yatay ölçeklenebilirlik karşılaştırması
+EKEN S., KAYA F., SAYAR A., KAVAK A.
+7. Mühendislik ve Teknoloji Sempozyumu, Turkey, 15 May 2014, (Full Text)
+XXXVI. Tracking a single node's availability for communication by means of observing local system
+resources
+EKEN S., KAYA F., SAYAR A., KAVAK A.
+IEEE International Symposium on Innovations in Intelligent Systems and Applications (INISTA), Alberobello, Italy,
+23 - 25 June 2014, pp.41-45, (Full Text)
+XXXVII. A Comparative Study of Signaling Protocols for Data Management and Synchronization in Fatih
+Project with School Level Cloud Proxy Server Deployment
+Kaya F., EKEN S., Ilhan Z., KAVAK A., SAYAR A., Kocasarac U., ŞAHİN S.
+IEEE 3rd Symposium on Network Cloud Computing and Applications (NCCA), Rome, Italy, 5 - 07 February 2014,
+pp.133-136, (Full Text)
+XXXVIII. Real Time Implemantation of LMS Beamformer for cdma2000 3G System Using TI tms320c6701
+KÜÇÜK K., Karakoç M., KAVAK A.
+International Conference on Electrical and Electronics Engineering, ELECO'2003, 03 December 2003 - 05
+November 2004, pp.360-365, (Full Text)
+XXXIX. Comparison of number formats on FPGA based OFDM modem architecture
+ŞAHİN S., KAVAK A., ÇAVUŞLU M. A.
+2013 21st Signal Processing and Communications Applications Conference (SIU), Haspolat, Turkey, 24 - 26 April
+2013, (Full Text)
+XL. DIFFERENTIATING VOICE AND DATA TRAFFIC USING STATISTICAL PROPERTIES
+Buyukkayhan A. S., KAVAK A., Yaprak E.
+10th International Conference on Electronics, Computer and Computation (ICECCO), Ankara, Turkey, 7 - 09
+November 2013, pp.76-79, (Full Text)
+XLI. Analyzing Distributed File Synchronization Techniques for Educational Data
+EKEN S., KAYA F., Ilhan Z., SAYAR A., KAVAK A., Kocasarac U., ŞAHİN S.
+10th International Conference on Electronics, Computer and Computation (ICECCO), Ankara, Turkey, 7 - 09
+November 2013, pp.318-321, (Full Text)
+XLII. Dekorasist : Bina İçi Dekorasyona Yönelik Öneri Sistemi
+KAYA F., Yıldız G., KAVAK A.
+Uluslararası Katılımlı XIV. Ulusal Biyoistatistik Kongresi, Kayseri, Turkey, 4 - 07 September 2012, (Summary Text)
+XLIII. Using OPNET for performance evaluation of modified SSLE in sensor networks Algilayici aǧlarda
+OPNET kullanarak i̇yi̇leşti̇ ri̇lmi̇ş STKB tekni̇ǧi̇ni̇n başarim deǧerlendi̇rmesi̇
+Küçük K., Bandirmali N., Kavak A.
+2012 20th Signal Processing and Communications Applications Conference, SIU 2012, Fethiye, Mugla, Turkey, 18 -
+20 April 2012, (Full Text)
+XLIV. A mobile application and web recommendation system for assisting indoor decoration
+GÜREL Y., KAYA F., KAVAK A.
+2012 International Symposium on Innovations in Intelligent Systems and Applications, Trabzon, Turkey, Turkey, 2 -
+04 July 2012, (Full Text)
+XLV. Using OPNET for performance evaluation of modified SSLE in sensor networks
+KÜÇÜK K., BANDIRMALI ERTÜRK N., KAVAK A.
+Signal Processing and Communications Applications Conference (SIU), 2012 20th, Muğla, Turkey, 18 - 20 April
+2012, vol.1, pp.1-4, (Full Text)
+XLVI. MODELING OF THE MODIFIED SSLE IN OPNET FOR LARGE SCALE WIRELESS SENSOR NETWORKS
+KÜÇÜK K., Bandirmali N., KAVAK A.
+5th Mosharaka International Conference on Communications, Computers and Applications (MIC-CCA), İstanbul,
+Turkey, 12 - 14 October 2012, pp.53-58, (Full Text)
+XLVII. MIMO OFDM Sistemlerde Yapay Sinir Ağı ile Hat Adaptasyonu
+YİĞİT H., KAVAK A.
+Akıllı Sistemlerde Yenilikler ve Uygulamaları Sempozyumu (ASYU 2010), Kayseri, Turkey, 21 - 24 June 2010, pp.30-
+34, (Full Text)
+XLVIII. Adaptation Using Neural Network in Frequency Selective MIMO OFDM Systems
+YİĞİT H., KAVAK A.
+IEEE 5th International Symposium on Wireless Pervasive Computing (ISWPC 2010), Modena, Italy, 5 - 07 May
+2010, pp.390-394, (Full Text)
+XLIX. Akıllı Anten Mimarisi Kullanan Kablosuz Algılayıcı Ağlar için Bağlantı Analizi
+KÜÇÜK K., KAVAK A.
+III. HABERLEŞME TEKNOLOJİLERİVEUYGULAMALARI SEMPOZYUMU (HABTEKUS'09), İstanbul, Turkey, 9 - 11
+December 2009, vol.1, pp.203-206, (Full Text)
+L. A New Wireless Sensor Networks Localization Scheme with Antenna Arrays
+KÜÇÜK K., KAVAK A., YİĞİT H., ÖZDEMİR C.
+14th European Wireless Conference (EW 2008), Prague, Czech Republic, 22 - 25 June 2008, pp.473-478, (Full
+Text)
+LI. System Generator Design Yöntemleri Kullanılarak FPGA Tabanlı Sdr Gerçekleştirimi
+ŞAHİN S., KAVAK A.
+3. Haberleşme Teknolojileri ve Uygulamaları Sempozyumu, Turkey, 01 April 2009, (Full Text)
+LII. COMPARISON OF SPACE CODE CORRELATOR BEAMFORMER USING DSP AND FPGA
+IMPLEMENTATIONS
+Dikmeşe Ş., KAVAK A., KÜÇÜK K., ŞAHİN S., TANGEL A., DİNÇER H.
+Mosharaka International Conference on Communications, Propagation and Electronic (MIC-CPE), 6 - 08 January
+2009, pp.1-6, (Full Text)
+LIII. On Connectivity Analysis of Smart Antenna Capable Wireless Sensor Networks
+KAVAK A., KÜÇÜK K.
+6th IEEE International Symposium on Wireless Communication Systems (ISWCS 09), Siena, Italy, 7 - 10 September
+2009, pp.6-7, (Full Text)
+LIV. Performance improvement via AR modeling based linear prediction for TDD-MIMO systems TDD-
+MIMO sistemleri için AR modellemeye dayali doǧrusal tahmin ile performans i̇yileştirilmesi
+Yiğit H., Kavak A., Küçük K., Turkboylari M.
+2008 IEEE 16th Signal Processing, Communication and Applications Conference, SIU, Aydın, Turkey, 20 - 22 April
+2008, (Full Text)
+LV. Smart antenna based location estimation for wireles ssensor networks Kablosuz algilayici aǧlar için
+akilli anten tabanli konum belirleme
+KÜÇÜK K., KAVAK A., YİĞİT H., Ozdemir C.
+2008 IEEE 16th Signal Processing, Communication and Applications Conference, SIU, Aydın, Turkey, 20 - 22 April
+2008, (Full Text)
+LVI. Which number format to use for baseband Wimax Modem implementation on an FPGA
+ŞAHİN S., DİKMEŞE Ş., KAVAK A.
+2008 IEEE 16th Signal Processing, Communication and Applications Conference, Aydin, Turkey, Turkey, 20 - 22
+April 2008, (Full Text)
+LVII. Performance Improvement via AR Modeling based Linear Prediction for TDD MIMO Systems
+YİĞİT H., KAVAK A., KÜÇÜK K., TÜRKBOYLARI M.
+IEEE 16th Signal Processing, Communication and Applications Conference (SIU 2008), Aydın, Turkey, 20 - 22 April
+2008, pp.80-83, (Full Text)
+LVIII. Smart Antenna Based Location Estimation for Wireless Sensor Networks
+Küçük K., Kavak A., Yiğit H., Özdemir C.
+IEEE 16th Signal Processing and Communications Applications Conference, Aydın, Turkey, 20 - 22 April 2008,
+pp.50-51, (Full Text)
+LIX. A novel localization technique for wireles ssensor networks using adaptive antenna arrays
+KÜÇÜK K., KAVAK A., YİĞİT H., Ozdemir C.
+IEEE Radio and Wireless Symposium, Florida, United States Of America, 22 - 24 January 2008, pp.483-484, (Full
+Text)
+LX. A smart antenna module using OMNeT++ for wireles ssensor network simulation
+KÜÇÜK K., KAVAK A., YİĞİT H.
+4th IEEE International Symposium on Wireless Communication Systems 2007, ISWCS'07, Trondheim, Norway, 16 -
+19 October 2007, pp.747-751, (Full Text)
+LXI. Kablosuz Algılayıcı Ağlar İçin Akıllı Anten Tabanlı Sektörel Tarama Protokolünün OMNeT ile
+Modellenmesi
+KÜÇÜK K., YİĞİT H., KAVAK A.
+III. İletişim Teknolojileri Ulusal Sempozyumu (İTUSEM 2007), Adana, Turkey, 18 - 19 October 2007, pp.109-114,
+(Full Text)
+LXII. Genetic Algorithm and Simulated Annealing for Dynamic OVSF Code Allocation in WCDMA Networks
+Mustafa K., KAVAK A.
+IEEE 15th Signal Processing and Communications Applications, 2007. SIU 2007., Eskişehir, Turkey, 11 - 13 June
+2007, pp.1-4, (Full Text)
+LXIII. Farklı Yayılım Senaryoları İçin Kablosuz MIMO Kanallarında Kapasite Analizi
+YİĞİT H., KÜÇÜK K., KAVAK A.
+III. İletişim Teknolojileri Ulusal Sempozyumu (İTUSEM 2007), Adana, Turkey, 18 - 19 June 2007, pp.253-256, (Full
+Text)
+LXIV. MATLAB GUI based sensor array processing estimation methods and performance analysis simulator
+KÜÇÜK K., KELEBEKLER E., KAVAK A.
+IEEE 15th Signal Processing and Communications Applications Conference, Eskişehir, Turkey, 11 - 13 June 2007,
+pp.298-299, (Full Text)
+LXV. Using diploidy genetic algorithm for dynamic OVSF code allocation in WCDMA networks
+Karakoc M., Soke A., KAVAK A.
+IEEE Radio and Wireless Symposium, California, United States Of America, 7 - 12 January 2007, pp.293-296, (Full
+Text)
+LXVI. A smart antenna module using OMNeT plus plus for wireles ssensor network simulation
+Küçük K., Kavak A., Yiğit H.
+4th International Symposium on Wireless Communication Systems, Trondheim, Norway, 17 - 19 October 2007,
+pp.489-493, (Full Text)
+LXVII. Stochastic methods for dynamic OVSF code assignment in 3G networks
+Karakoc M., KAVAK A.
+4th International Symposium on Stochastic Algorithms - Foundations and Applications, Zürich, Switzerland, 13 - 14
+September 2007, vol.4665, pp.142-143, (Full Text)
+LXVIII. Evaluation of FPGA-based software radio beamformers for 3G wireless
+Dikmese S., Kavak A., Şahin S., Küçük K., Dincer H.
+IEEE Radio and Wireless Symposium, California, United States Of America, 7 - 12 January 2007, pp.1-4, (Full Text)
+LXIX. Anew dynamic OVSF code allocation method based on adaptive simulated annealing genetic
+algorithm (ASAGA)
+Karakoc M., KAVAK A.
+18th IEEE International Symposium on Personal, Indoor and Mobile Radio Communication, Athens, Greece, 3 - 07
+September 2007, pp.2923-2924, (Full Text)
+LXX. Akıllı Anten Algoritmalarının IEEE 754 Kayan Sayı Formatı ile FPGA Tabanlı Gerçeklenmesi ve
+Performans Analizi
+Çavuşlu M. A., Dikmeşe Ş., ŞAHİN S., KÜÇÜK K., KAVAK A.
+URSI Türkiye 2006 3. Bilimsel Kongresi, Ankara, Turkey, 6 - 08 September 2006, pp.610-612, (Full Text)
+LXXI. Akıllı Antenler için DSP Tabanlı Uzay Kod Korelatör Algoritması Gerçeklenmesi ve Performans
+AnaliziKÜÇÜK K., KAVAK A.
+III. URSI-Türkiye 2006 Bilimsel Kongresi 2006, Turkey, 6 - 08 September 2006, pp.610-612, (Full Text)
+LXXII. A comparative study of antenna array algorithm implementations using FPGA and DSP for cdma2000
+ŞAHİN S., DIKMESE S., KÜÇÜK K., KAVAK A.
+3rd International Symposium on Wireless Communication Systems (ISWCS 2006), Valencia, Spain, 5 - 08
+September 2006, pp.714-715, (Full Text)
+LXXIII. C or Assembly Coding on Floating Point Digital Signal Processors for Software Radio Implementation
+of a Beamformer
+KÜÇÜK K., KAVAK A., KARAKOÇ M., YİĞİT H.
+International Informatics Congress (BİLTEK 2005), Eskişehir, Turkey, 10 - 12 June 2005, pp.459-466, (Full Text)
+LXXIV. C Versus Assembly Implementation of Smart Antenna Beamformers on Floating Point DSPs
+KÜÇÜK K., KAVAK A., Karakoç M., YİĞİT H.
+International Informatics Congress (Biltek 2005), 10 - 12 June 2005, pp.459-466, (Full Text)
+LXXV. Design and hardware implementation of a novel smart antenna algorithm using TI DSPs
+Kucuk K., KARAKOC M., Kavak A., Yigit H.
+2nd International Symposium on Wireless Communications Systems (ISWCS 2005), Siena, Italy, 5 - 07 September
+2005, pp.596-600, (Full Text)
+LXXVI. Implementation of Several Smart Antenna Algorithms for cdma2000 Reverse Link on TMS320C6000
+DSP Family
+KÜÇÜK K., Karakoç M., KAVAK A.
+EDERS-2004: The European DSP Education and Research Symposium, 16 November 2004, pp.1-6, (Full Text)
+LXXVII. Autoregressive and Adaline Network Modeling for Wireless Communications
+YİĞİT H., KAVAK A., ERTUNÇ H. M.
+International Conference on Signals and Electronic Systems (ICSES 2004), Poznan, Poland, 13 - 15 September
+2004, pp.127-130, (Full Text)
+LXXVIII. Zaman Bölüşümlü Çift Yönlü Akıllı Anten Sistemleri İçin Uyarlamalı Doğrusal Tahmin Tabanlı Hüzme
+Şekillendirme
+YİĞİT H., KAVAK A.
+II. URSI-Türkiye Bilimsel Kongresi (URSI 2004), Ankara, Turkey, 8 - 10 September 2004, pp.84-86, (Full Text)
+LXXIX. Uyarlanabilir Akıllı Anten Algoritmalarının Yuvarlanır Nokta DSP Üzerinde Gerçekleştirilmesi Ve
+Karşılaştırılması
+KÜÇÜK K., Karakoç M., KAVAK A.
+II. URSI-Türkiye 2004 Bilimsel Kongresi, Turkey, 8 - 10 September 2004, pp.300-302, (Full Text)
+LXXX. 3 Nesil Haberleşme Sistemlerinde Kullanılan Akıllı Anten Algoritmalarının Yazılım Radyo Kullanılarak
+Gerçekleştirilmesi
+KÜÇÜK K., Karakoç M., KAVAK A.
+II. URSI-Türkiye 2004 Bilimsel Kongresi, Turkey, 8 - 10 September 2004, pp.273-275, (Full Text)
+LXXXI. Implementation and Performance Comparison of DSP Enabled LMS and CM Beamformers for
+cdma2000 Reverse Link
+KÜÇÜK K., Karakoç M., KAVAK A.
+International Conference on Intelligent Knowledge Systems (IKS 2004), 16 - 20 August 2004, pp.49-53, (Full Text)
+LXXXII. Using Autoregressive and Adaline Neural Network Modeling to Improve Downlink Performance of
+Smart Antennas
+YİĞİT H., KAVAK A., ERTUNÇ H. M.
+IEEE International Conference on Mechatronics (ICM 2004), İstanbul, Turkey, 3 - 05 June 2004, pp.165-170, (Full
+Text)
+LXXXIII. Using Autoregressive and Adaline Neural Network Modeling to Improve Dowlink Performance of
+Smart Antennas
+YİĞİT H., KAVAK A., ERTUNÇ H. M.
+Proceedings of the IEEE International Conference on Mechatronics, 3 - 05 June 2004, (Full Text)
+LXXXIV. Performance Improvement via AR Modeling based Linear Prediction for Time Division Duplex TDD
+Smart Antenna Systems
+YİĞİT H., KAVAK A.
+IEEE 12th Signal Processing and Communications Applications Conference (SIU 2004), Kuşadası, Aydın, Turkey, 28
+- 30 April 2004, pp.200-203, (Full Text)
+LXXXV. Üçüncü Nesil WCDMA Sistemlerinde OVSF Kod Tahsisi Yöntemleri
+Deveci Topal A., Kavak A.
+International Twelfth Turkish Symposium on Artificial Intelligence and Neural Networks, Çanakkale, Turkey, 2 - 04
+July 2003, pp.255-258, (Full Text)
+LXXXVI. Simulation and performance comparison of smart antenna algorithms for 3G wireless
+communications
+Karakoc M., Kavak A., Yigit H.
+International Conference on Computer, Communication and Control Technologies (CCCT 03)/9th International
+Conference on Information Systems Analysis and Synthesis (ISAS03), Florida, United States Of America, 31 July -
+02 August 2003, pp.45-50, (Full Text)
+LXXXVII. Interference analysis and capacity for mixture of forward link cdma2000-1X and 1xEV-DV voice
+trafficKavak A., Cleveland J.
+IEEE Radio and Wireless Conference (RAWCON 2003), Massachusetts, United States Of America, 10 - 13 August
+2003, pp.23-26, (Full Text)
+LXXXVIII. Forward link capacity analysis of 3G CDMA wireles ssystems with adaptive antenna arrays
+Kavak A., Lim J., Cleveland J.
+54th IEEE Vehicular Technology Conference (VTC 2001), New-Jersey, United States Of America, 7 - 11 October
+2001, pp.2063-2066, (Full Text)
+LXXXIX. GPS multipath fade measurements to determine L-band ground reflectivity properties
+KAVAK A., Xu G., Vogel W. J.
+Proceedings of the Twentieth NASA Propagation Experimenters Meeting (NAPEX 20) and the Advanced
+Communications Technology Satellite (ACTS) Propagation Studies Miniworkshop, Alaska, United States Of America,
+4 - 06 June 1996, pp.257-263, (Full Text)
+Funded Projects
+Kavak A., Arslan B., Cantürk Z., Çakır Ö., İnner A. B., Selek A., Alkan Ö., Demirhan Y., Research Project of the Presidency of
+Turkey Health Institutes (TÜSEB), AIDCARE: Artificial Intelligence Based Personilzed Digital Assistant for Self
+Management and Remote Monitoring of Diabetic Patients, 2024 - 2026
+KAVAK A., SOLAIJA M. S. J., Arslan A., Project Supported by Higher Education Institutions, BAP Research Project, Gelecek
+Nesil 6G Kablosuz Sistemleri için Gelişmiş Geri Saçılım İletişim Teknikleri, 2024 - 2026
+KAVAK A., Project Supported by Higher Education Institutions, BAP Infrastructure, 2019- BİLGİSAYAR AĞLARI VE
+HABERLEŞME ARAŞTIRMA LABORATUVARI, 2019 - 2020
+KAVAK A., Project Supported by Other Private Institutions, Akıllı Harita Tabanlı Görsel Veri Analiz Platformu, 2015 -
+2016KAVAK A., TUBITAK Project, Giyilebilir ve Sabit Platformlu İleri Düzey Özelliklere Sahip Uzaktan Hasta İzleme Sistemi,
+2014 - 2016
+KAVAK A., Project Supported by Other Private Institutions, Depo ve Stoklama Takip Yazılımı, 2013 - 2015
+Sayar A., Kavak A., Şahin S., TUBITAK Project, 1003 - Priority Areas R&D Projects Support Program, Yerel Bulut Sunucu
+Tabanlı Etkin Bir Veri Saklama Ve İçerik Dağıtımı Yönetimi Sistemi (TÜBİTAK 1003), 2013 - 2015
+Şahin S., Sayar A., Kavak A., TUBITAK Project, 1003 - Priority Areas R&D Projects Support Program, Yerel Bulut Sunucu
+Tabanlı Etkin Bir Veri Saklama ve İçerik Dağıtımı Yönetimi Sistemi, 2013 - 2014
+KAVAK A., TUBITAK Project, Konutlar İçin Yönetilebilir Akıllı Alarm Sistemi, 2012 - 2014
+KAVAK A., TUBITAK Project, ALTHİS Kablosuz Algılayıcı Tabanlı Uzaktan Hasta İzleme SistemiGeliştirilmesi, 2011 - 2014
+KAVAK A., Project Supported by Higher Education Institutions, BAP Research Project, Çoklu-Giriş Çoklu-Çıkış (MIMO)
+Sistemlerde Kanal Tahmini ve Performans İyileştirmesi, 2010 - 2012
+Küçük K., Kavak A., TUBITAK Project, 1002 - Quick Support Program, Kablosuz Algılayıcı Ağlarda Akıllı Anten Kullanan
+Sektörel Tarama Tabanlı Konum Tahmini OPNET ile Simülasyon Çalışması, 2009 - 2010
+KAVAK A., TUBITAK Project, Kablosuz Algılayıcı Ağlarda Akıllı Anten Kullanan Sektörel Tarama Tabanlı Konum Tahmini
+OPNET ile Simülasyon Çalışması Tübitak EEEAG 109E138, 2008 - 2010
+Yiğit H., Küçük K., Kavak A., Project Supported by Higher Education Institutions, BAP Research Project, Çoklu Alıcı Çoklu
+Verici MIMO Anten Sistemli RF Alıcı Verici Ünitesi Geliştirilmesi, 2005 - 2007
+KAVAK A., TUBITAK Project, Üçüncü Nesil Kablosuz Haberleşme Sistemleri için Smart Anten Algoritması Geliştirilmesi ve
+Prototip Üzerinde Uygulanması Tübitak EEEAG 102E015, 2002 - 2004
+KAVAK A., Other International Funding Programs, Development of architecture and requirements for cdma2001 1X base
+transceiver station, 2000 - 2001
+PatentKavak A., System and method for improving performance of an adaptive antenna array in a vehicular environment,
+Patent, CHAPTER H Electricity, The Invention Registration Number: US 7139593 B2 , 2006
+Kavak A., Practical M-ary Demodulator Using Hard Decision Circuit and Method of Operation for Use in a CDMA Wireless
+Network Base Station, Patent, CHAPTER H Electricity, The Invention Registration Number: US 7095809 B2 , 2006
+Kavak A., System and Method For Providing an Improved Channel Encoder in a Digital Data Communications System,
+Patent, CHAPTER H Electricity, The Invention Registration Number: US 7085984 B2 , 2006
+Kavak A., Practical M-ary Demodulator and Method of Operation For Use in a CDMA Wireless Network Base Station,
+Patent, CHAPTER H Electricity, The Invention Registration Number: US 7095810 B2 , 2006
+Kavak A., Apparatus and Method for Allocating Walsh Codes to Access Terminals in an Adaptive Antenna Array CDMA
+Wireless Network, Patent, CHAPTER H Electricity, The Invention Registration Number: US 20020146029A1 , 2002
+Activities in Scientific Journals
+IEEE Access, Assistant Editor/Section Editor, 2019 - Continues
+Turkish Journal Of Electrical Engineering And Computer Sciences, Committe eMember, 2013 - 2014
+Scientific Research / Working Group Memberships
+Tübitak Teydeb Mobil İletişim Çpdk, Kocaeli University, Turkey, www.tubitak.gov.tr, 2014 - 2015
+Tübitak Ardeb Mobil İletişim Çpdk, Kocaeli University, Turkey, tubitak.gov.tr, 2014 - 2015
+MetricsPublication: 163
+Citation (WoS): 383
+Citation (Scopus): 547
+H-Index (WoS): 11
+H-Index (Scopus): 12
+Non Academic Experience
+Koaceli Üniversitesi, Bilgisayar Müh.Bölüm Başkanı
+Kocaeli Üniversitesi, Prof.
+Kocaeli Üniversitesi, Müdür
+Kocaeli Üniversitesi, Doç.
+Kocaeli Üniversitesi, Yrd.Doç.
+Samsung Telecommunications America, Sr. Research Engineer
+The University of Texas at Austin, Araştırma/Eğitim Görevlisi
+PTT Uydu Haberleşme Merkezi, Uydu Kontrol Mühendisi

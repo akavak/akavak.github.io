@@ -1,0 +1,55 @@
+AIDCare: A Technical Proof-of-Concept|10.3390/nu18203353
+AI-Assisted Nutrition Estimation and Exercise|10.3390/nu18193207
+Design and Evaluation of a Source-Grounded Medical LLM|10.3390/diagnostics16193142
+A Secure, Lightweight, and Low-Latency Edge|10.3390/engproc2026154073
+A CSMF- and LLM-Based Hybrid Approach|10.3390/engproc2026154042
+A Confidence-Aware Hybrid Vision|10.3390/nu18152449
+Digital Twins for 6G V2X|10.1109/mce.2025.3645465
+A Hybrid CNN|10.3390/nu18132205
+A Multi-Source Retrieval-Augmented|10.1109/access.2026.3718400
+Optimizing Relay Selection in D2D|10.1007/s11277-025-11753-z
+Hybrid 3D Mesh Reconstruction|10.3390/engproc2025104079
+Implementation of a Decision Support Mechanism on a Mobile|10.3390/engproc2025104027
+Relay Assisted Device-to-Device|10.30534/ijeter/2024/0112102024
+Evaluation of Cloud-Based Dynamic Network Scaling|10.3390/engproc2024070045
+Review of Artificial Intelligence Based Beam Tracking|10.30534/ijeter/2023/081152023
+A Data Transmission Scheme Using K-Means|10.30534/ijeter/2022/0110102022
+Self-adaptive medium access control|10.1016/j.optcom.2021.126837
+An IoT Based Intelligent Traffic Management|10.30534/ijeter/2021/049112021
+Dynamic Routing of Emergency Vehicles|10.30534/ijeter/2021/079112021
+Comparative performance analysis of cooperative|10.1002/dac.4545
+Using Moment Generating Function|10.1016/j.aeue.2020.153066
+Physical Layer Detection of Malicious Relays|10.1109/access.2020.3017045
+Cooperative communications using relay nodes|10.1002/tee.22852
+Adaptive Polling Medium Access Control|10.3390/app9061071
+A Novel Fractional Frequency Reuse Scheme|10.1109/access.2019.2933689
+A Power Control Algorithm (PCA)|10.16984/saufenbilder.373293
+Throughput Maximization of CSMA|10.1007/s11277-016-3616-y
+Analyzing Entity Framework Technology|10.17706/jcp.11.4.320-328
+A Comparison of Imputation Techniques|10.5120/ijca2016909903
+A Study on Environmental Effect|10.5120/ijca2016909444
+A mobile and web application-based recommendation|10.3906/elk-1212-145
+Smart and Reconfigurable Antenna Applications|10.1155/2014/658792
+Connectivity Analysis for Wireless Sensor Networks|10.1007/s11277-013-1083-2
+A modified sectoral sweeper-based|10.1177/0037549713481256
+A learning approach in link adaptation|10.3906/elk-1110-24
+Analytical Derivation of 2 x 2 MIMO|10.1515/freq-2012-0023
+FPGA Based Implementation and Comparison of Beamformers|10.1007/s11277-009-9855-4
+Scalable location estimation using smart antennas|10.1016/j.adhoc.2010.04.005
+Digital signal processor against field programmable|10.1049/iet-map.2009.0151
+Capacity Improvement for TDD-MIMO|10.1007/s11277-009-9823-z
+A Practical Space-Code Correlator Receiver|10.1007/s11277-008-9570-6
+Genetic approach for dynamic OVSF|10.1016/j.asoc.2008.04.012
+Interference analysis and capacity for forward link 3G|10.1002/wcm.494
+Smart antenna based OVSF code assignment|10.1007/s11277-007-9343-7
+Performance of adaptive antenna array based dynamic OVSF|10.1515/freq.2007.61.11-12.254
+A synthetic aperture radar-based focusing|10.1002/mop.22724
+A hyperbolic summation method|10.1002/mop.22230
+The sectoral sweeper scheme|10.1007/s11277-006-9058-1
+Using adaline neural network|10.1109/tnn.2005.857947
+Autoregressive and neural network model based|10.1007/978-3-540-28648-6_40
+Spatial and temporal fading correlations|10.1002/mop.11285
+Characteristics of vector propagation channels|10.1109/8.982448
+Mobile transmit diversity|10.1002/mop.1230
+Vector channels for smart antennas|10.1109/22.846719
+Using GPS to measure ground|10.1049/el:19980180

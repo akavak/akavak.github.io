@@ -1,0 +1,3222 @@
+[
+ {
+  "title": "AIDCare: A Technical Proof-of-Concept for Integrating Personalized Nutrition, Physical Activity, and AI-Assisted Care in Diabetes Lifestyle Management",
+  "authors": [
+   "Kavak A.",
+   "Jamil M.",
+   "Arın H. B.",
+   "İnner A. B.",
+   "Fotouhi H.",
+   "Gezer E.",
+   "Alkan Ö.",
+   "Cantürk Z.",
+   "Selek A.",
+   "Srivastava G."
+  ],
+  "year": 2026,
+  "venue": "Nutrients",
+  "volume": "18",
+  "issue": "20",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "doi": "10.3390/nu18203353",
+  "id": "a001"
+ },
+ {
+  "title": "AI-Assisted Nutrition Estimation and Exercise Support for Integrated Lifestyle Management in Patients with Diabetes",
+  "authors": [
+   "Jamil M.",
+   "Kavak A.",
+   "Fotouhi H.",
+   "Rashed M.",
+   "Gezer E.",
+   "İnner A. B.",
+   "Srivastava G."
+  ],
+  "year": 2026,
+  "venue": "Nutrients",
+  "volume": "18",
+  "issue": "19",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "doi": "10.3390/nu18193207",
+  "id": "a002"
+ },
+ {
+  "title": "Design and Evaluation of a Source-Grounded Medical LLM for Clinical Decision Support and Patient Care in Trustworthy Diagnostic Systems",
+  "authors": [
+   "Jamil M.",
+   "Kavak A.",
+   "İlhan Omurca S.",
+   "Fotouhi H."
+  ],
+  "year": 2026,
+  "venue": "Diagnostics",
+  "volume": "16",
+  "issue": "19",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "doi": "10.3390/diagnostics16193142",
+  "id": "a003"
+ },
+ {
+  "title": "A Secure, Lightweight, and Low-Latency Edge–Cloud Architecture for Intelligent V2X Communication Systems",
+  "authors": [
+   "Bayraktar S.",
+   "Kavak A.",
+   "Jamil M.",
+   "Doğru A. C.",
+   "Farhan M.",
+   "Aslan G."
+  ],
+  "year": 2026,
+  "venue": "Engineering Proceedings",
+  "volume": "154",
+  "issue": "1",
+  "pages": "73",
+  "indexing": [
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.3390/engproc2026154073",
+  "id": "a004"
+ },
+ {
+  "title": "A CSMF-and LLM-Based Hybrid Approach for Charging Station Recommendations in Electrical Vehicle Networks",
+  "authors": [
+   "Sezen Y. E.",
+   "Jamil M.",
+   "Kavak A.",
+   "Bayraktar S.",
+   "Aslan G."
+  ],
+  "year": 2026,
+  "venue": "Engineering Proceedings",
+  "volume": "154",
+  "issue": "1",
+  "pages": "42",
+  "indexing": [
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "doi": "10.3390/engproc2026154042",
+  "id": "a005"
+ },
+ {
+  "title": "A Confidence-Aware Hybrid Vision–Language Framework for Food Recognition and Nutritional Monitoring",
+  "authors": [
+   "Göz F.",
+   "Jamil M.",
+   "Kavak A.",
+   "Bayraktar S.",
+   "Doğru A. C.",
+   "Srivastava G.",
+   "Fotouhi H."
+  ],
+  "year": 2026,
+  "venue": "Nutrients",
+  "volume": "18",
+  "issue": "15",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "doi": "10.3390/nu18152449",
+  "id": "a006"
+ },
+ {
+  "title": "Digital Twins for 6G V2X Communication in ICE Ecosystems",
+  "authors": [
+   "Khan S. A.",
+   "Kavak A.",
+   "Küçük K.",
+   "Chaudhry S. A."
+  ],
+  "year": 2026,
+  "venue": "IEEE Consumer Electronics Magazine",
+  "volume": "15",
+  "issue": "4",
+  "pages": "84-92",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.1109/mce.2025.3645465",
+  "id": "a007"
+ },
+ {
+  "title": "A Hybrid CNN–MLLM Architecture for Image-Based Nutrition Estimation and Advisory Insulin Decision Support in Type 1 Diabetes",
+  "authors": [
+   "Velombe J. C.",
+   "Bayraktar S.",
+   "Kavak A.",
+   "Jamil M.",
+   "İnner A. B.",
+   "Srivastava G.",
+   "Fotouhi H."
+  ],
+  "year": 2026,
+  "venue": "Nutrients",
+  "volume": "18",
+  "issue": "13",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "doi": "10.3390/nu18132205",
+  "id": "a008"
+ },
+ {
+  "title": "A Multi-Source Retrieval-Augmented Large Language Model Architecture for Trustworthy Conversational AI in Diabetes Care",
+  "authors": [
+   "Jamil M.",
+   "Kavak A.",
+   "Bayraktar S.",
+   "İnner A. B.",
+   "Doğru A. C.",
+   "Srivastava G."
+  ],
+  "year": 2026,
+  "venue": "IEEE Access",
+  "volume": "14",
+  "issue": "",
+  "pages": "117295-117309",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "doi": "10.1109/access.2026.3718400",
+  "id": "a009"
+ },
+ {
+  "title": "Optimizing Relay Selection in D2D Communication for Next-Generation Wireless Networks Using Multi-Agent Reinforcement Learning: A Novel Approach",
+  "authors": [
+   "Sirma M.",
+   "Kavak A.",
+   "İnner A. B."
+  ],
+  "year": 2025,
+  "venue": "Wireless Personal Communications",
+  "volume": "140",
+  "issue": "3",
+  "pages": "945-969",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.1007/s11277-025-11753-z",
+  "id": "a010"
+ },
+ {
+  "title": "Hybrid 3D Mesh Reconstruction Models of CT Images for Deep Learning Based Classification of Kidney Tumors",
+  "authors": [
+   "Demirtaş M. A.",
+   "İnner A. B.",
+   "Kavak A."
+  ],
+  "year": 2025,
+  "venue": "Engineering Proceedings",
+  "volume": "104",
+  "issue": "1",
+  "pages": "",
+  "indexing": [
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "doi": "10.3390/engproc2025104079",
+  "id": "a011"
+ },
+ {
+  "title": "Implementation of a Decision Support Mechanism on a Mobile Platform Using Clinical Evidence-Based Dynamic Insulin Dosage Adjustment for Artificial Intelligence-Enabled Diabetes Care (AIDCARE) System",
+  "authors": [
+   "Üçer Ö. F.",
+   "Kavak A.",
+   "Demirhan Y.",
+   "Uzun M.",
+   "Savaş B.",
+   "İnner A. B.",
+   "Alkan Ö.",
+   "Arslan B.",
+   "Cantürk Z.",
+   "Selek A.",
+   "et al."
+  ],
+  "year": 2025,
+  "venue": "Engineering Proceedings",
+  "volume": "104",
+  "issue": "1",
+  "pages": "",
+  "indexing": [
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "doi": "10.3390/engproc2025104027",
+  "id": "a012"
+ },
+ {
+  "title": "Artificial Intelligence Based Customer Risk Classification for Receivables Management of Businesses",
+  "authors": [
+   "Tiryaki Ş. C.",
+   "Kavak A."
+  ],
+  "year": 2024,
+  "venue": "Journal of Artificial Intelligence and Data Science (JAIDA)",
+  "volume": "4",
+  "issue": "2",
+  "pages": "97-103",
+  "indexing": [
+   "TRDizin"
+  ],
+  "type": "article",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "a013"
+ },
+ {
+  "title": "Relay Assisted Device-to-Device Communication for Future Generation Wireless Networks: A Review from Architectural and Challenges Perspective",
+  "authors": [
+   "Sırma M.",
+   "Kavak A."
+  ],
+  "year": 2024,
+  "venue": "International Journal of Emerging Trends in Engineering Research",
+  "volume": "12",
+  "issue": "10",
+  "pages": "143-152",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.30534/ijeter/2024/0112102024",
+  "id": "a014"
+ },
+ {
+  "title": "Evaluation of Cloud-Based Dynamic Network Scaling and Slicing for Next-Generation Wireless Networks",
+  "authors": [
+   "Cubukcu A.",
+   "Cubukcu O.",
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2024,
+  "venue": "Engineering Proceedings",
+  "volume": "70",
+  "issue": "1",
+  "pages": "1-12",
+  "indexing": [
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.3390/engproc2024070045",
+  "id": "a015"
+ },
+ {
+  "title": "Review of Artificial Intelligence Based Beam Tracking Techniques for mmWave 5G and Beyond Networks",
+  "authors": [
+   "Hakım N.",
+   "Kavak A.",
+   "Yiğit H."
+  ],
+  "year": 2023,
+  "venue": "International Journal of Emerging Trends in Engineering Research",
+  "volume": "11",
+  "issue": "5",
+  "pages": "159-167",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.30534/ijeter/2023/081152023",
+  "id": "a016"
+ },
+ {
+  "title": "A Data Transmission Scheme Using K-Means and Fuzzy Logic for IOT Sensor Based Forest Fire Detection System",
+  "authors": [
+   "Sadeq A. A.",
+   "Kavak A.",
+   "Khan S. A."
+  ],
+  "year": 2022,
+  "venue": "International Journal of Emerging Trends in Engineering Research",
+  "volume": "10",
+  "issue": "10",
+  "pages": "420-423",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.30534/ijeter/2022/0110102022",
+  "id": "a017"
+ },
+ {
+  "title": "Self-adaptive medium access control protocol for aggregated VLC-RF wireless networks",
+  "authors": [
+   "Kucuk K.",
+   "Msongaleli D. L.",
+   "Akbulut O.",
+   "Kavak A.",
+   "Bayilmis C."
+  ],
+  "year": 2021,
+  "venue": "Optics Communications",
+  "volume": "488",
+  "issue": "",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.1016/j.optcom.2021.126837",
+  "id": "a018"
+ },
+ {
+  "title": "A Clinical Decision Support Method and Mobile Application for Remote Monitoring of Diabetic Patients",
+  "authors": [
+   "Talayhan C.",
+   "Kavak A."
+  ],
+  "year": 2021,
+  "venue": "Artificial Intelligence Theory and Applications",
+  "volume": "1",
+  "issue": "2",
+  "pages": "253-262",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "id": "a019"
+ },
+ {
+  "title": "Machine Learning Based Polyneuropathy Diagnosis Using Electromyogram Data",
+  "authors": [
+   "Tanık N.",
+   "Kavak A."
+  ],
+  "year": 2021,
+  "venue": "Artificial Intelligence Theory and Applications",
+  "volume": "1",
+  "issue": "2",
+  "pages": "148-155",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "id": "a020"
+ },
+ {
+  "title": "An IoT Based Intelligent Traffic Management System and Its Implementation on Cupcarbon for Smart Cities",
+  "authors": [
+   "Oğuz A.",
+   "Kavak A."
+  ],
+  "year": 2021,
+  "venue": "International Journal of Emerging Trends in Engineering Research",
+  "volume": "9",
+  "issue": "11",
+  "pages": "1387-1394",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.30534/ijeter/2021/049112021",
+  "id": "a021"
+ },
+ {
+  "title": "Dynamic Routing of Emergency Vehicles with Traffic Management System and Implementation on CupCarbon for Smart Cities",
+  "authors": [
+   "Ahmet Mirza Y.",
+   "Kavak A."
+  ],
+  "year": 2021,
+  "venue": "International Journal of Emerging Trends in Engineering Research",
+  "volume": "9",
+  "issue": "11",
+  "pages": "1407-1412",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.30534/ijeter/2021/079112021",
+  "id": "a022"
+ },
+ {
+  "title": "Comparative performance analysis of cooperative and multi dual-hop relay networks using MGF approach",
+  "authors": [
+   "Asshad M.",
+   "Kavak A.",
+   "Küçük K.",
+   "Ahmad Khan S. A."
+  ],
+  "year": 2020,
+  "venue": "International Journal of Communication Systems",
+  "volume": "",
+  "issue": "15",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.1002/dac.4545",
+  "id": "a023"
+ },
+ {
+  "title": "Using Moment Generating Function for Performance Analysis in Non-Regenerative Cooperative Relay Networks with Max-Min Relay Selection",
+  "authors": [
+   "Asshad M.",
+   "Kavak A.",
+   "Küçük K.",
+   "Khan S. A."
+  ],
+  "year": 2020,
+  "venue": "AEU-International Journal of Electronics and Communications",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.1016/j.aeue.2020.153066",
+  "id": "a024"
+ },
+ {
+  "title": "Physical Layer Detection of Malicious Relays in LTE-A Network Using Unsupervised Learning",
+  "authors": [
+   "Yengi Y.",
+   "Kavak A.",
+   "Arslan H."
+  ],
+  "year": 2020,
+  "venue": "IEEE Access",
+  "volume": "8",
+  "issue": "",
+  "pages": "154713-154726",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.1109/access.2020.3017045",
+  "id": "a025"
+ },
+ {
+  "title": "Cooperative communications using relay nodes for next-generation wireless networks with optimal selection techniques: A review",
+  "authors": [
+   "Asshad M.",
+   "Khan S. A.",
+   "Kavak A.",
+   "Küçük K.",
+   "Msongaleli D. L."
+  ],
+  "year": 2019,
+  "venue": "IEEJ Transactions on Electrical and Electronic Engineering",
+  "volume": "",
+  "issue": "5",
+  "pages": "658-669",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.1002/tee.22852",
+  "id": "a026"
+ },
+ {
+  "title": "Adaptive Polling Medium Access Control Protocol for Optic Wireless Networks",
+  "authors": [
+   "Msongaleli D. L.",
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2019,
+  "venue": "Applied Sciences-Basel",
+  "volume": "",
+  "issue": "6",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.3390/app9061071",
+  "id": "a027"
+ },
+ {
+  "title": "A Novel Fractional Frequency Reuse Scheme for Interference Management in LTE-A HetNets",
+  "authors": [
+   "Khan S. A.",
+   "Kavak A.",
+   "Colak S.",
+   "Küçük K."
+  ],
+  "year": 2019,
+  "venue": "IEEE Access",
+  "volume": "",
+  "issue": "",
+  "pages": "109662-109672",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.1109/access.2019.2933689",
+  "id": "a028"
+ },
+ {
+  "title": "A Power Control Algorithm (PCA) and Software Tool for Femtocells in LTE-A Networks",
+  "authors": [
+   "Khan S. A.",
+   "Ashad M.",
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2018,
+  "venue": "Sakarya University Journal of Science",
+  "volume": "22",
+  "issue": "",
+  "pages": "1124-1129",
+  "indexing": [
+   "TRDizin"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "doi": "10.16984/saufenbilder.373293",
+  "id": "a029"
+ },
+ {
+  "title": "Idle Time Estimation for Bandwidth-Efficient Synchronization in Replicated Distributed File System",
+  "authors": [
+   "Gulagız F.",
+   "Eken S.",
+   "Kavak A.",
+   "Sayar A."
+  ],
+  "year": 2018,
+  "venue": "International Arab Journal of Information Technology",
+  "volume": "15",
+  "issue": "2",
+  "pages": "177-185",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "a030"
+ },
+ {
+  "title": "Throughput Maximization of CSMA in Cognitive Radio Networks with Cooperative Spectrum Sensing",
+  "authors": [
+   "Atmaca S.",
+   "Sayli O.",
+   "Yuan J.",
+   "Kavak A."
+  ],
+  "year": 2017,
+  "venue": "Wireless Personal Communications",
+  "volume": "92",
+  "issue": "4",
+  "pages": "1473-1492",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.1007/s11277-016-3616-y",
+  "id": "a031"
+ },
+ {
+  "title": "Fall detection using smartphone-based application",
+  "authors": [
+   "Yıldırım K.",
+   "Uçar G.",
+   "Keskin T.",
+   "Kavak A."
+  ],
+  "year": 2016,
+  "venue": "International Journal of Applied Mathematics, Electronics and Computers",
+  "volume": "4",
+  "issue": "4",
+  "pages": "140-144",
+  "indexing": [
+   "TRDizin"
+  ],
+  "type": "article",
+  "topics": [
+   "AI for Health"
+  ],
+  "id": "a032"
+ },
+ {
+  "title": "Analyzing Entity Framework Technology for An Indoor Decoration Based Recommendation System",
+  "authors": [
+   "Kaya F.",
+   "Başaran U.",
+   "Kavak A."
+  ],
+  "year": 2016,
+  "venue": "Journal of Computers",
+  "volume": "11",
+  "issue": "4",
+  "pages": "320-328",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "doi": "10.17706/jcp.11.4.320-328",
+  "id": "a033"
+ },
+ {
+  "title": "A Comparison of Imputation Techniques using Network Traffic Data",
+  "authors": [
+   "Kaya F.",
+   "Gök O.",
+   "Kavak A."
+  ],
+  "year": 2016,
+  "venue": "International Journal of Computer Applications",
+  "volume": "142",
+  "issue": "",
+  "pages": "25-29",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "doi": "10.5120/ijca2016909903",
+  "id": "a034"
+ },
+ {
+  "title": "A Study on Environmental Effect of Electromagnetic Waves",
+  "authors": [
+   "Kaya F.",
+   "Göz F.",
+   "Kavak A."
+  ],
+  "year": 2016,
+  "venue": "International Journal of Computer Applications",
+  "volume": "140",
+  "issue": "",
+  "pages": "35-41",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "doi": "10.5120/ijca2016909444",
+  "id": "a035"
+ },
+ {
+  "title": "Beacon Temelli Sanal Etiket Uygulaması",
+  "authors": [
+   "Kaya F.",
+   "Göz F.",
+   "Şahin E.",
+   "Albayrak M. S.",
+   "Kavak A."
+  ],
+  "year": 2016,
+  "venue": "Bilecik Şeyh Edebali Üniversitesi Fen Bilimleri Dergisi",
+  "volume": "3",
+  "issue": "",
+  "pages": "1-7",
+  "indexing": [
+   "TRDizin"
+  ],
+  "type": "article",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "id": "a036"
+ },
+ {
+  "title": "A mobile and web application-based recommendation system using color quantization and collaborative filtering",
+  "authors": [
+   "Kaya F.",
+   "Yildiz G.",
+   "Kavak A."
+  ],
+  "year": 2015,
+  "venue": "Turkish Journal of Electrical Engineering and Computer Sciences",
+  "volume": "23",
+  "issue": "3",
+  "pages": "900-912",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus",
+   "TRDizin"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "doi": "10.3906/elk-1212-145",
+  "id": "a037"
+ },
+ {
+  "title": "Smart and Reconfigurable Antenna Applications in Wireless Sensor Networks",
+  "authors": [
+   "Yegin K.",
+   "Kavak A.",
+   "Cayirci E.",
+   "Dandekar K."
+  ],
+  "year": 2014,
+  "venue": "International Journal of Distributed Sensor Networks",
+  "volume": "",
+  "issue": "",
+  "pages": "",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.1155/2014/658792",
+  "id": "a038"
+ },
+ {
+  "title": "Connectivity Analysis for Wireless Sensor Networks with Antenna Array Integrated Central Node",
+  "authors": [
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2013,
+  "venue": "Wireless Personal Communications",
+  "volume": "72",
+  "issue": "2",
+  "pages": "1361-1371",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.1007/s11277-013-1083-2",
+  "id": "a039"
+ },
+ {
+  "title": "A modified sectoral sweeper-based localization estimation and its implementation in a multi-hop wireless sensor networking environment by using OPNET",
+  "authors": [
+   "Küçük K.",
+   "Bandirmali N.",
+   "Kavak A.",
+   "Atmaca S."
+  ],
+  "year": 2013,
+  "venue": "Simulation-Transactions of the Society for Modeling and Simulation International",
+  "volume": "89",
+  "issue": "6",
+  "pages": "746-761",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.1177/0037549713481256",
+  "id": "a040"
+ },
+ {
+  "title": "A learning approach in link adaptation for MIMO-OFDM systems",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A."
+  ],
+  "year": 2013,
+  "venue": "Turkish Journal of Electrical Engineering and Computer Sciences",
+  "volume": "21",
+  "issue": "5",
+  "pages": "1465-1478",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus",
+   "TRDizin"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.3906/elk-1110-24",
+  "id": "a041"
+ },
+ {
+  "title": "Analytical Derivation of 2 x 2 MIMO Channel Capacity in Terms of Multipath Angle Spread and Signal Strength",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A."
+  ],
+  "year": 2012,
+  "venue": "Frequenz",
+  "volume": "66",
+  "issue": "",
+  "pages": "97-100",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "doi": "10.1515/freq-2012-0023",
+  "id": "a042"
+ },
+ {
+  "title": "FPGA Based Implementation and Comparison of Beamformers for CDMA2000",
+  "authors": [
+   "Dıkmese S.",
+   "Kavak A.",
+   "Küçük K.",
+   "Şahin S.",
+   "Tangel A."
+  ],
+  "year": 2011,
+  "venue": "Wireless Personal Communications",
+  "volume": "57",
+  "issue": "",
+  "pages": "233-253",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1007/s11277-009-9855-4",
+  "id": "a043"
+ },
+ {
+  "title": "Scalable location estimation using smart antennas in wireless sensor networks",
+  "authors": [
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2010,
+  "venue": "Ad Hoc Networks",
+  "volume": "8",
+  "issue": "8",
+  "pages": "889-903",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.1016/j.adhoc.2010.04.005",
+  "id": "a044"
+ },
+ {
+  "title": "Digital signal processor against field programmable gate array implementations of space-code correlator beamformer for smart antennas",
+  "authors": [
+   "Dikmese S.",
+   "Kavak A.",
+   "Küçük K.",
+   "Şahin S.",
+   "Tangel A.",
+   "Dıncer H."
+  ],
+  "year": 2010,
+  "venue": "IET Microwaves Antennas & Propagation",
+  "volume": "4",
+  "issue": "",
+  "pages": "593-599",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1049/iet-map.2009.0151",
+  "id": "a045"
+ },
+ {
+  "title": "Capacity Improvement for TDD-MIMO Systems via AR Modeling Based Linear Prediction",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2010,
+  "venue": "Wireless Personal Communications",
+  "volume": "52",
+  "issue": "2",
+  "pages": "411-418",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "doi": "10.1007/s11277-009-9823-z",
+  "id": "a046"
+ },
+ {
+  "title": "A Practical Space-Code Correlator Receiver for DSP Based Software Radio Implementation in CDMA2000",
+  "authors": [
+   "Küçük K.",
+   "Kavak A.",
+   "Karakoc M.",
+   "Yiğit H.",
+   "Ozdemir C."
+  ],
+  "year": 2009,
+  "venue": "Wireless Personal Communications",
+  "volume": "49",
+  "issue": "2",
+  "pages": "245-261",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1007/s11277-008-9570-6",
+  "id": "a047"
+ },
+ {
+  "title": "Genetic approach for dynamic OVSF code allocation in 3G wireless networks",
+  "authors": [
+   "Karakoc M.",
+   "Kavak A."
+  ],
+  "year": 2009,
+  "venue": "Applied Soft Computing",
+  "volume": "9",
+  "issue": "1",
+  "pages": "348-361",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1016/j.asoc.2008.04.012",
+  "id": "a048"
+ },
+ {
+  "title": "Interference analysis and capacity for forward link 3G CDMA network with adaptive antennas",
+  "authors": [
+   "Kavak A.",
+   "Karakoc M.",
+   "Torlak M.",
+   "Özdemir C."
+  ],
+  "year": 2008,
+  "venue": "Wireless Communications & Mobile Computing",
+  "volume": "8",
+  "issue": "4",
+  "pages": "531-543",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1002/wcm.494",
+  "id": "a049"
+ },
+ {
+  "title": "Smart antenna based OVSF code assignment for WCDMA networks",
+  "authors": [
+   "Kavak A.",
+   "Karakoc M."
+  ],
+  "year": 2007,
+  "venue": "Wireless Personal Communications",
+  "volume": "43",
+  "issue": "4",
+  "pages": "1761-1766",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1007/s11277-007-9343-7",
+  "id": "a050"
+ },
+ {
+  "title": "Performance of adaptive antenna array based dynamic OVSF code assignment for multipath propagation and multicell environment",
+  "authors": [
+   "Karakoc M.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "Frequenz",
+  "volume": "61",
+  "issue": "",
+  "pages": "254-258",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1515/freq.2007.61.11-12.254",
+  "id": "a051"
+ },
+ {
+  "title": "A synthetic aperture radar-based focusing algorithm for B-SCAN ground penetrating radar imagery",
+  "authors": [
+   "Yigit E.",
+   "Demirci S.",
+   "Ozdemir C.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "Microwave and Optical Technology Letters",
+  "volume": "49",
+  "issue": "10",
+  "pages": "2534-2540",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1002/mop.22724",
+  "id": "a052"
+ },
+ {
+  "title": "A hyperbolic summation method to focus B-scan ground penetrating radar images: An experimental study with a stepped frequency system",
+  "authors": [
+   "Ozdemir C.",
+   "Demirci S.",
+   "Yigit E.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "Microwave and Optical Technology Letters",
+  "volume": "49",
+  "issue": "3",
+  "pages": "671-676",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1002/mop.22230",
+  "id": "a053"
+ },
+ {
+  "title": "Üçüncü Nesil CDMA Sistemler İçin Yeni Bir Akıllı Anten Algoritması Gerçekleştirilmesi ve Performans Analizi",
+  "authors": [
+   "Küçük K.",
+   "Mustafa K.",
+   "Kavak A.",
+   "Yiğit H."
+  ],
+  "year": 2006,
+  "venue": "Journal of the Faculty of Engineering and Architecture of Gazi University",
+  "volume": "21",
+  "issue": "4",
+  "pages": "801-808",
+  "indexing": [
+   "Scopus",
+   "TRDizin"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "a054"
+ },
+ {
+  "title": "The sectoral sweeper scheme for wireless sensor networks: Adaptive antenna array based sensor node management and location estimation",
+  "authors": [
+   "Erdogan A.",
+   "Coskun V.",
+   "Kavak A."
+  ],
+  "year": 2006,
+  "venue": "Wireless Personal Communications",
+  "volume": "39",
+  "issue": "4",
+  "pages": "415-433",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "doi": "10.1007/s11277-006-9058-1",
+  "id": "a055"
+ },
+ {
+  "title": "Implementation and Performance Analysis of a Novel Smart Antenna Algorithm for 3G CDMA Systems",
+  "authors": [
+   "Küçük K.",
+   "Mustafa K.",
+   "Kavak A.",
+   "Yiğit H."
+  ],
+  "year": 2006,
+  "venue": "Journal of The Faculty of Engineering and Architecture of Gazi University",
+  "volume": "21",
+  "issue": "",
+  "pages": "801-808",
+  "indexing": [
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "a056"
+ },
+ {
+  "title": "Using adaline neural network for performance improvement of smart antennas in TDD wireless communications",
+  "authors": [
+   "Kavak A.",
+   "Yigit H.",
+   "Ertunc H. M."
+  ],
+  "year": 2005,
+  "venue": "IEEE Transactions on Neural Networks",
+  "volume": "16",
+  "issue": "6",
+  "pages": "1616-1625",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1109/tnn.2005.857947",
+  "id": "a057"
+ },
+ {
+  "title": "Design and Implementation of Floating Point Arithmetics on FPGA using VHDL",
+  "authors": [
+   "Şahin S.",
+   "Kavak A."
+  ],
+  "year": 2005,
+  "venue": "Journal of Naval Science and Engineering",
+  "volume": "3",
+  "issue": "",
+  "pages": "57-70",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "a058"
+ },
+ {
+  "title": "Adaptive Linear Prediction based Downlink Beamforming for Wireless Communication Systems",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A."
+  ],
+  "year": 2005,
+  "venue": "Gazi University Journal of Science",
+  "volume": "18",
+  "issue": "",
+  "pages": "409-419",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "a059"
+ },
+ {
+  "title": "Autoregressive and neural network model based predictions for downlink beamforming",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A.",
+   "Ertunc M."
+  ],
+  "year": 2004,
+  "venue": "Advances in Neural Networks - ISNN 2004, PT 2",
+  "volume": "3174",
+  "issue": "",
+  "pages": "254-261",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1007/978-3-540-28648-6_40",
+  "id": "a060"
+ },
+ {
+  "title": "Overview of Smart Antenna Methodologies for Mobile Communications",
+  "authors": [
+   "Karakoç M.",
+   "Yiğit H.",
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "Journal of Naval Science and Engineering",
+  "volume": "2",
+  "issue": "",
+  "pages": "51-66",
+  "indexing": [
+   "Peer-Reviewed Journal"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "a061"
+ },
+ {
+  "title": "Spatial and temporal fading correlations of a uniform circular array smart antenna in urban vehicular propagation",
+  "authors": [
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "Microwave and Optical Technology Letters",
+  "volume": "40",
+  "issue": "1",
+  "pages": "61-65",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1002/mop.11285",
+  "id": "a062"
+ },
+ {
+  "title": "Evaluation of smart antenna algorithms for cdma2000 reverse link",
+  "authors": [
+   "Karakoc M.",
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "Networking 2004",
+  "volume": "3042",
+  "issue": "",
+  "pages": "1360-1365",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "a063"
+ },
+ {
+  "title": "Software radio implementation of a smart antenna system on digital signal processors for cdma2000",
+  "authors": [
+   "Kucuk K.",
+   "Karakoc M.",
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "Intelligent Information Technology, Proceedings",
+  "volume": "3356",
+  "issue": "",
+  "pages": "97-106",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "a064"
+ },
+ {
+  "title": "Characteristics of vector propagation channels in dynamic mobile scenarios",
+  "authors": [
+   "Kavak A.",
+   "Yang W.",
+   "Xu G.",
+   "Vogel W."
+  ],
+  "year": 2001,
+  "venue": "IEEE Transactions on Antennas and Propagation",
+  "volume": "49",
+  "issue": "12",
+  "pages": "1695-1702",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1109/8.982448",
+  "id": "a065"
+ },
+ {
+  "title": "Mobile transmit diversity for base-station antenna arrays",
+  "authors": [
+   "Kavak A.",
+   "Xu G."
+  ],
+  "year": 2001,
+  "venue": "Microwave and Optical Technology Letters",
+  "volume": "30",
+  "issue": "2",
+  "pages": "95-97",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1002/mop.1230",
+  "id": "a066"
+ },
+ {
+  "title": "Vector channels for smart antennas - Measurements statistical modeling, and directional properties in outdoor environments",
+  "authors": [
+   "Kavak A.",
+   "Torlak M.",
+   "Vogel W.",
+   "Xu G."
+  ],
+  "year": 2000,
+  "venue": "IEEE Transactions on Microwave Theory and Techniques",
+  "volume": "48",
+  "issue": "6",
+  "pages": "930-937",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1109/22.846719",
+  "id": "a067"
+ },
+ {
+  "title": "Using GPS to measure ground complex permittivity",
+  "authors": [
+   "Kavak A.",
+   "Vogel W.",
+   "Xu G."
+  ],
+  "year": 1998,
+  "venue": "Electronics Letters",
+  "volume": "34",
+  "issue": "3",
+  "pages": "254-255",
+  "indexing": [
+   "SCI-Expanded",
+   "Scopus"
+  ],
+  "type": "article",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "doi": "10.1049/el:19980180",
+  "id": "a068"
+ },
+ {
+  "title": "Secure Authentication and Privacy-Preserving Localization for V2X Communications in Next-Generation Vehicular Networks",
+  "authors": [
+   "Jamil M.",
+   "Kavak A.",
+   "Bayraktar S.",
+   "Aslan G.",
+   "Canbolat C."
+  ],
+  "year": 2026,
+  "venue": "9th International Balkan Conference on Communications and Networking, Balkancom 2026, Ulcinj, Montenegro, 16 - 19 June 2026",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c069"
+ },
+ {
+  "title": "Performance Evaluation of Conventional and AI-Aided Detectors for AmBC in Multi-Tap Channels",
+  "authors": [
+   "Arslan A.",
+   "Solaija M. S. J.",
+   "Janjua M. B.",
+   "Kavak A."
+  ],
+  "year": 2026,
+  "venue": "9th International Balkan Conference on Communications and Networking, Balkancom 2026, Ulcinj, Montenegro, 16 - 19 June 2026",
+  "pages": "60-65",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c070"
+ },
+ {
+  "title": "Fine-Tuning Open-Weight LLMs for Connected Health Management: A Case Study for Diabetes Management",
+  "authors": [
+   "Doǧru A. C.",
+   "Canbolat C.",
+   "Bayraktar S.",
+   "Jamil M.",
+   "Kavak A."
+  ],
+  "year": 2026,
+  "venue": "2026 IEEE International Black Seas Conference on Communications and Networking, BlackSeaCom 2026, Bucharest, Romania, 8 - 11 June 2026",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "AI for Health"
+  ],
+  "id": "c071"
+ },
+ {
+  "title": "Slice-Aware Handover Management for MEC Services Using 3GPP APIs Towards 6G",
+  "authors": [
+   "Çubukçu A.",
+   "Çubukçu Ö.",
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2025,
+  "venue": "2025 Conference on Standards for Communications and Networking-CSCN-Annual, Bologna, Italy, 15 - 17 September 2025",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c072"
+ },
+ {
+  "title": "SDN and NFV Based Dynamic QoS Management for 5G and Beyond Networks",
+  "authors": [
+   "Çubukçu Ö.",
+   "Çubukçu A.",
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2024,
+  "venue": "2024 32nd Signal Processing and Communications Applications Conference (SIU), Mersin, Turkey, 15 - 18 May 2024",
+  "pages": "1-4",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c073"
+ },
+ {
+  "title": "Performance Evaluation of 5G RAN Slicing in terms of Physical Resource Usage",
+  "authors": [
+   "Çubukçu A.",
+   "Çubukçu Ö.",
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2024,
+  "venue": "2024 32nd Signal Processing and Communications Applications Conference (SIU), Mersin, Turkey, 01 May 2024",
+  "pages": "1-4",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c074"
+ },
+ {
+  "title": "A Study on Slice-Aware Industrial Edge Applications for Next-Generation Private Networks",
+  "authors": [
+   "Çubukçu A.",
+   "Çubukçu Ö.",
+   "Sabucu Sandal Y.",
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2023,
+  "venue": "4th International Informatics and Software Engineering Conference, Ankara, Turkey, 21 December 2023",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c075"
+ },
+ {
+  "title": "Cloud Based IoE Connectivity Engines for The Next Generation Networks: Challenges and Architectural Overview",
+  "authors": [
+   "Sırma M.",
+   "Kavak A.",
+   "İnner A. B."
+  ],
+  "year": 2019,
+  "venue": "2019 1st International Informatics and Software Engineering Conference (UBMYK), Ankara, Turkey, Turkey, 6 - 07 November 2019",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c076"
+ },
+ {
+  "title": "Performance Analysis of Multi-Node Cooperative Network with Amplify and Forward Relay Protocol",
+  "authors": [
+   "Asshad M.",
+   "Ahmad S. A.",
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2019,
+  "venue": "1st International Informatics and Software Engineering Conference, IISEC 2019, Ankara, Turkey, 6 - 07 November 2019",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c077"
+ },
+ {
+  "title": "Evaluation of Multi Dual-Hop and Cooperative Relay Networks using MGF Based Analysis",
+  "authors": [
+   "Ashad M.",
+   "Khan S. A.",
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2019,
+  "venue": "1st International Informatics and Software Engineering Conference, IISEC 2019, Ankara, Turkey, 6 - 07 November 2019",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c078"
+ },
+ {
+  "title": "A User Location Distribution Based FFR Strategy for Efficient Utilization of Radio Resources in LTE-A HetNets",
+  "authors": [
+   "Khan S. A.",
+   "Aldırmaz Çolak S.",
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2019,
+  "venue": "1st International Informatics and Software Engineering Conference, IISEC 2019, Ankara, Turkey, 6 - 07 November 2019",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c079"
+ },
+ {
+  "title": "Malicious Relay Node Detection with Unsupervised Learning in Amplify-Forward Cooperative Networks",
+  "authors": [
+   "Yengi Y.",
+   "Kavak A.",
+   "Arslan H.",
+   "Küçük K.",
+   "Yiğit H."
+  ],
+  "year": 2019,
+  "venue": "International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT), Sitrah, Bahrain, 22 - 23 September 2019",
+  "pages": "1-5",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c080"
+ },
+ {
+  "title": "A New Fractional Frequency Reuse Method for Interference Management in LTE-A HetNets",
+  "authors": [
+   "Khan S. A.",
+   "Kavak A.",
+   "Küçük K.",
+   "Asshad M."
+  ],
+  "year": 2019,
+  "venue": "27th Signal Processing and Communications Applications Conference (SIU), Sivas, Turkey, 24 - 26 April 2019",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c081"
+ },
+ {
+  "title": "Tarım Arazisinde Dikili Fidanların Gelisim ve Verimlilik Takibi icin Cografi Bilgi Sistemlerine Dayalı Mobil Uygulama Gelistirilmesi",
+  "authors": [
+   "Erbay G.",
+   "Kavak A.",
+   "İnner A. B."
+  ],
+  "year": 2018,
+  "venue": "International Symposiım on Innovative Approaches in Scientific Studies (ISAS Winter 2018), Samsun, Turkey, 30 November - 02 December 2018",
+  "pages": "764-768",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c082"
+ },
+ {
+  "title": "QRS detection on IOS platform based on single channel practical ECG measurement for remote patient monitoring",
+  "authors": [
+   "Avcu F.",
+   "Kavak A.",
+   "İnner A. B."
+  ],
+  "year": 2018,
+  "venue": "2018 26th Signal Processing and Communications Applications Conference (SIU), İzmir, Turkey, 2 - 05 May 2018",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "AI for Health"
+  ],
+  "id": "c083"
+ },
+ {
+  "title": "ALTHIS: Design of An End to End Integrated Remote Patient Monitoring System and a Case Study for Diabetic Patients",
+  "authors": [
+   "Kavak A.",
+   "İnner A. B."
+  ],
+  "year": 2018,
+  "venue": "Medical Technologies National Congress (TIPTEKNO), Magusa, CYPRUS, 8 - 10 November 2018",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "AI for Health"
+  ],
+  "id": "c084"
+ },
+ {
+  "title": "Lucrative Data Center Transformation Strategies at Digital Age Wins to Business Infinity",
+  "authors": [
+   "Sırma M.",
+   "Kavak A."
+  ],
+  "year": 2017,
+  "venue": "4TH International Conference On“innovative Trends in Multidisciplinary Academic Research” (ITMAR-2017), Istanbul, Turkey, 20 - 21 October 2017",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c085"
+ },
+ {
+  "title": "A novel signaling protocol (ARCSPXP): Case study on synchronization of educational data",
+  "authors": [
+   "Eken S.",
+   "Gülağız F.",
+   "Sayar A.",
+   "Kavak A.",
+   "Kocasaraç U.",
+   "İlhan Z."
+  ],
+  "year": 2016,
+  "venue": "8th EAI International Conference on Mobile Networks and Management, MONAMI 2016, Abu Dhabi, United Arab Emirates, 23 - 24 October 2016",
+  "pages": "31-43",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c086"
+ },
+ {
+  "title": "Big Data Overview With Open Challenges and Research Areas",
+  "authors": [
+   "Oktay T.",
+   "Kavak A."
+  ],
+  "year": 2016,
+  "venue": "International Science and Technology Conference (ISTEC 2016), Viyana, Austria, 13 - 15 July 2016",
+  "pages": "189",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c087"
+ },
+ {
+  "title": "Transport Power Control Algorithm for LTE A Femtocell Networks",
+  "authors": [
+   "Khan S. A.",
+   "Kavak A.",
+   "Ashad M.",
+   "Kaya F."
+  ],
+  "year": 2016,
+  "venue": "ICAT 2016, Konya, Turkey, 1 - 03 October 2016",
+  "pages": "204-207",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c088"
+ },
+ {
+  "title": "Transmit Power Control TPC Algorithm for LTE a Femtocell Networks",
+  "authors": [
+   "Khan S. A.",
+   "Kavak A.",
+   "Asshad M.",
+   "Kaya F."
+  ],
+  "year": 2016,
+  "venue": "3rd International Conference on Advanced Technology & Sciences, Konya, Turkey, 1 - 03 September 2016",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks"
+  ],
+  "id": "c089"
+ },
+ {
+  "title": "A Study Based on Clustering Techniques in Data Mining Comparison of Farthest First Clustering Density Based Clustering K means and K Medoids Algorithms",
+  "authors": [
+   "Kaya F.",
+   "Kavak A."
+  ],
+  "year": 2016,
+  "venue": "INSODE 2016, Antalya, Turkey, 12 - 14 May 2016",
+  "pages": "24",
+  "format": "Summary Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c090"
+ },
+ {
+  "title": "Design and Implementation of a Communication Protocol for Mobile Device Controlled Smart Home Management System",
+  "authors": [
+   "Menteşoğlu M.",
+   "Kavak A.",
+   "Yakut M.",
+   "Tangel A.",
+   "Şahin S.",
+   "Özcan H."
+  ],
+  "year": 2015,
+  "venue": "SİU2015, Turkey, 16 - 19 May 2015",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "id": "c091"
+ },
+ {
+  "title": "A Cluster Based Routing Approach in LTE Ad-hoc Networks",
+  "authors": [
+   "Karahan A.",
+   "Kavak A.",
+   "Atmaca S."
+  ],
+  "year": 2015,
+  "venue": "International Conference on Information and Communication Technology Research (ICTRC 2015), Abu Dhabi, United Arab Emirates, 17 - 19 May 2015",
+  "pages": "250-253",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c092"
+ },
+ {
+  "title": "Estimation of Idle Time for Synchronization: A Case Study on Fatih Project",
+  "authors": [
+   "Gulagiz F.",
+   "Eken S.",
+   "Kavak A.",
+   "Sayar A."
+  ],
+  "year": 2015,
+  "venue": "23nd Signal Processing and Communications Applications Conference (SIU), Malatya, Turkey, 16 - 19 May 2015",
+  "pages": "1158-1161",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c093"
+ },
+ {
+  "title": "A Method for Localization of Computational Node and Proxy Server in Educational Data Synchronization",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Sayar A.",
+   "Kavak A.",
+   "Şahin S."
+  ],
+  "year": 2014,
+  "venue": "8th International Wireless Internet Conference (WICON), Lisbon, Portugal, 13 - 14 November 2014",
+  "pages": "180-190",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c094"
+ },
+ {
+  "title": "Fatih Projesinde Proxy Sunucunun Doğru Konumlandırıldığının Kontrol Edilmesi ve Tabletlerinin Yerini Tespit için Bir Metot",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Kerem Ç.",
+   "Sayar A.",
+   "Kavak A.",
+   "Şahin S."
+  ],
+  "year": 2014,
+  "venue": "2014 Elektrik - Elektronik, Bilgisayar ve Biyomedikal Mühendisliği Sempozyumu, Turkey, 27 - 29 November 2014",
+  "pages": "748-752",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c095"
+ },
+ {
+  "title": "Bulut Vekil Sunucu ve Tabletler Arasında Veri Senkronizasyonu için RTT Kullanarak Farklı Kümeleme Metotlarının Değerlendirilmesi",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Güngör A.",
+   "Sayar A.",
+   "Kavak A.",
+   "Şahin S."
+  ],
+  "year": 2014,
+  "venue": "Elektrik, Elektronik, Bilgisayar ve Biyomedikal Mühendisliği Sempozyumu, Turkey, 27 - 29 November 2014",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c096"
+ },
+ {
+  "title": "Bulut Vekil Sunucu ve Tabletler Arasında Veri Senkronizasyonu için RTT Kullanarak Farklı Kümeleme Metodlarının Değerlendirilmesi",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Güngör A.",
+   "Sayar A.",
+   "Kavak A.",
+   "Şahin S."
+  ],
+  "year": 2014,
+  "venue": "2014 Elektrik - Elektronik, Bilgisayar ve Biyomedikal Mühendisliği Sempozyumu, Turkey, 27 - 29 November 2014",
+  "pages": "670-675",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c097"
+ },
+ {
+  "title": "Evaluation of RTT based Clustering Methods for Data Synchronization between Proxy Cloud Servers and Tablets",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Güngör A.",
+   "Sayar A.",
+   "Kavak A.",
+   "Şahin S."
+  ],
+  "year": 2014,
+  "venue": "Elektrik - Elektronik, Bilgisayar ve Biyomedikal Mühendisliği Sempozyumu, ELECO 2014, Bursa, Turkey, 27 - 29 November 2014",
+  "pages": "670-675",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c098"
+ },
+ {
+  "title": "A Method for Verifying Accurate Deployment of a Proxy Server and Localization of Tablets in Fatih Project",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Güngör A.",
+   "Sayar A.",
+   "Kavak A.",
+   "Şahin S."
+  ],
+  "year": 2014,
+  "venue": "Elektrik - Elektronik, Bilgisayar ve Biyomedikal Mühendisliği Sempozyumu, ELECO 2014, Bursa, Turkey, 27 - 29 November 2014",
+  "pages": "748-752",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c099"
+ },
+ {
+  "title": "Capcha Karakterlerinin Yapay Sinir Ağları Kullanılarak Karşılaştırılması",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Sayar A.",
+   "Kavak A."
+  ],
+  "year": 2014,
+  "venue": "7. Mühendislik ve Teknoloji Sempozyumu, Cankaya Üniversitesi, Ankara, Turkey, 15 - 16 May 2014",
+  "pages": "7-11",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c100"
+ },
+ {
+  "title": "Döküman Tabanlı NoSQL Veritabanları MongoDB ve CouchDB yatay ölçeklenebilirlik karşılaştırması",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Sayar A.",
+   "Kavak A."
+  ],
+  "year": 2014,
+  "venue": "7. Mühendislik ve Teknoloji Sempozyumu, Cankaya Üniversitesi, Ankara, Turkey, 15 - 16 May 2014",
+  "pages": "61-67",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c101"
+ },
+ {
+  "title": "Doküman Tabanlı NoSQL Veritabanları: MongoDB ve CouchDB yatay ölçeklenebilirlik karşılaştırması",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Sayar A.",
+   "Kavak A."
+  ],
+  "year": 2014,
+  "venue": "7. Mühendislik ve Teknoloji Sempozyumu, Turkey, 15 May 2014",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c102"
+ },
+ {
+  "title": "Tracking a single node's availability for communication by means of observing local system resources",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Sayar A.",
+   "Kavak A."
+  ],
+  "year": 2014,
+  "venue": "IEEE International Symposium on Innovations in Intelligent Systems and Applications (INISTA), Alberobello, Italy, 23 - 25 June 2014",
+  "pages": "41-45",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c103"
+ },
+ {
+  "title": "A Comparative Study of Signaling Protocols for Data Management and Synchronization in Fatih Project with School Level Cloud Proxy Server Deployment",
+  "authors": [
+   "Kaya F.",
+   "Eken S.",
+   "Ilhan Z.",
+   "Kavak A.",
+   "Sayar A.",
+   "Kocasarac U.",
+   "Şahin S."
+  ],
+  "year": 2014,
+  "venue": "IEEE 3rd Symposium on Network Cloud Computing and Applications (NCCA), Rome, Italy, 5 - 07 February 2014",
+  "pages": "133-136",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c104"
+ },
+ {
+  "title": "Comparison of number formats on FPGA based OFDM modem architecture",
+  "authors": [
+   "Şahin S.",
+   "Kavak A.",
+   "Çavuşlu M. A."
+  ],
+  "year": 2013,
+  "venue": "2013 21st Signal Processing and Communications Applications Conference (SIU), Haspolat, Turkey, 24 - 26 April 2013",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c105"
+ },
+ {
+  "title": "Differentiating Voice and Data Traffic using Statistical Properties",
+  "authors": [
+   "Buyukkayhan A. S.",
+   "Kavak A.",
+   "Yaprak E."
+  ],
+  "year": 2013,
+  "venue": "10th International Conference on Electronics, Computer and Computation (ICECCO), Ankara, Turkey, 7 - 09 November 2013",
+  "pages": "76-79",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c106"
+ },
+ {
+  "title": "Analyzing Distributed File Synchronization Techniques for Educational Data",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Ilhan Z.",
+   "Sayar A.",
+   "Kavak A.",
+   "Kocasarac U.",
+   "Şahin S."
+  ],
+  "year": 2013,
+  "venue": "10th International Conference on Electronics, Computer and Computation (ICECCO), Ankara, Turkey, 7 - 09 November 2013",
+  "pages": "318-321",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c107"
+ },
+ {
+  "title": "Dekorasist : Bina İçi Dekorasyona Yönelik Öneri Sistemi",
+  "authors": [
+   "Kaya F.",
+   "Yıldız G.",
+   "Kavak A."
+  ],
+  "year": 2012,
+  "venue": "Uluslararası Katılımlı XIV. Ulusal Biyoistatistik Kongresi, Kayseri, Turkey, 4 - 07 September 2012",
+  "pages": "",
+  "format": "Summary Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c108"
+ },
+ {
+  "title": "Using OPNET for performance evaluation of modified SSLE in sensor networks Algilayici aǧlarda OPNET kullanarak iyileştirilmiş STKB tekniǧinin başarim deǧerlendirmesi",
+  "authors": [
+   "Küçük K.",
+   "Bandirmali N.",
+   "Kavak A."
+  ],
+  "year": 2012,
+  "venue": "2012 20th Signal Processing and Communications Applications Conference, SIU 2012, Fethiye, Mugla, Turkey, 18 - 20 April 2012",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "id": "c109"
+ },
+ {
+  "title": "A mobile application and web recommendation system for assisting indoor decoration",
+  "authors": [
+   "Gürel Y.",
+   "Kaya F.",
+   "Kavak A."
+  ],
+  "year": 2012,
+  "venue": "2012 International Symposium on Innovations in Intelligent Systems and Applications, Trabzon, Turkey, Turkey, 2 - 04 July 2012",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c110"
+ },
+ {
+  "title": "Using OPNET for performance evaluation of modified SSLE in sensor networks",
+  "authors": [
+   "Küçük K.",
+   "Bandırmalı Ertürk N.",
+   "Kavak A."
+  ],
+  "year": 2012,
+  "venue": "Signal Processing and Communications Applications Conference (SIU), 2012 20th, Muğla, Turkey, 18 - 20 April 2012",
+  "pages": "1-4",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "id": "c111"
+ },
+ {
+  "title": "Modeling of the Modified SSLE in OPNET for Large Scale Wireless Sensor Networks",
+  "authors": [
+   "Küçük K.",
+   "Bandirmali N.",
+   "Kavak A."
+  ],
+  "year": 2012,
+  "venue": "5th Mosharaka International Conference on Communications, Computers and Applications (MIC-CCA), İstanbul, Turkey, 12 - 14 October 2012",
+  "pages": "53-58",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "id": "c112"
+ },
+ {
+  "title": "MIMO OFDM Sistemlerde Yapay Sinir Ağı ile Hat Adaptasyonu",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A."
+  ],
+  "year": 2010,
+  "venue": "Akıllı Sistemlerde Yenilikler ve Uygulamaları Sempozyumu (ASYU 2010), Kayseri, Turkey, 21 - 24 June 2010",
+  "pages": "30-",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c113"
+ },
+ {
+  "title": "Adaptation Using Neural Network in Frequency Selective MIMO OFDM Systems",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A."
+  ],
+  "year": 2010,
+  "venue": "IEEE 5th International Symposium on Wireless Pervasive Computing (ISWPC 2010), Modena, Italy, 5 - 07 May 2010",
+  "pages": "390-394",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c114"
+ },
+ {
+  "title": "Akıllı Anten Mimarisi Kullanan Kablosuz Algılayıcı Ağlar için Bağlantı Analizi",
+  "authors": [
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2009,
+  "venue": "III. Haberleşme Teknolojileri ve Uygulamalari Sempozyumu (HABTEKUS'09), Istanbul, Turkey, 9 - 11 December 2009",
+  "pages": "203-206",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "id": "c115"
+ },
+ {
+  "title": "System Generator Design Yöntemleri Kullanılarak FPGA Tabanlı Sdr Gerçekleştirimi",
+  "authors": [
+   "Şahin S.",
+   "Kavak A."
+  ],
+  "year": 2009,
+  "venue": "3. Haberleşme Teknolojileri ve Uygulamaları Sempozyumu, Turkey, 01 April 2009",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c116"
+ },
+ {
+  "title": "Comparison of Space Code Correlator Beamformer using DSP and FPGA Implementations",
+  "authors": [
+   "Dikmeşe Ş.",
+   "Kavak A.",
+   "Küçük K.",
+   "Şahin S.",
+   "Tangel A.",
+   "Dinçer H."
+  ],
+  "year": 2009,
+  "venue": "Mosharaka International Conference on Communications, Propagation and Electronic (MIC-CPE), 6 - 08 January 2009",
+  "pages": "1-6",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c117"
+ },
+ {
+  "title": "On Connectivity Analysis of Smart Antenna Capable Wireless Sensor Networks",
+  "authors": [
+   "Kavak A.",
+   "Küçük K."
+  ],
+  "year": 2009,
+  "venue": "6th IEEE International Symposium on Wireless Communication Systems (ISWCS 09), Siena, Italy, 7 - 10 September 2009",
+  "pages": "6-7",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "id": "c118"
+ },
+ {
+  "title": "A New Wireless Sensor Networks Localization Scheme with Antenna Arrays",
+  "authors": [
+   "Küçük K.",
+   "Kavak A.",
+   "Yiğit H.",
+   "Özdemir C."
+  ],
+  "year": 2008,
+  "venue": "14th European Wireless Conference (EW 2008), Prague, Czech Republic, 22 - 25 June 2008",
+  "pages": "473-478",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "id": "c119"
+ },
+ {
+  "title": "Performance improvement via AR modeling based linear prediction for TDD-MIMO systems TDD-MIMO sistemleri için AR modellemeye dayali doǧrusal tahmin ile performans iyileştirilmesi",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A.",
+   "Küçük K.",
+   "Turkboylari M."
+  ],
+  "year": 2008,
+  "venue": "2008 IEEE 16th Signal Processing, Communication and Applications Conference, SIU, Aydın, Turkey, 20 - 22 April 2008",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c120"
+ },
+ {
+  "title": "Smart antenna based location estimation for wireless sensor networks Kablosuz algilayici aǧlar için akilli anten tabanli konum belirleme",
+  "authors": [
+   "Küçük K.",
+   "Kavak A.",
+   "Yiğit H.",
+   "Ozdemir C."
+  ],
+  "year": 2008,
+  "venue": "2008 IEEE 16th Signal Processing, Communication and Applications Conference, SIU, Aydın, Turkey, 20 - 22 April 2008",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "id": "c121"
+ },
+ {
+  "title": "Which number format to use for baseband Wimax Modem implementation on an FPGA",
+  "authors": [
+   "Şahin S.",
+   "Dikmeşe Ş.",
+   "Kavak A."
+  ],
+  "year": 2008,
+  "venue": "2008 IEEE 16th Signal Processing, Communication and Applications Conference, Aydin, Turkey, Turkey, 20 - 22 April 2008",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c122"
+ },
+ {
+  "title": "Performance Improvement via AR Modeling based Linear Prediction for TDD MIMO Systems",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A.",
+   "Küçük K.",
+   "Türkboyları M."
+  ],
+  "year": 2008,
+  "venue": "IEEE 16th Signal Processing, Communication and Applications Conference (SIU 2008), Aydın, Turkey, 20 - 22 April 2008",
+  "pages": "80-83",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "c123"
+ },
+ {
+  "title": "Smart Antenna Based Location Estimation for Wireless Sensor Networks",
+  "authors": [
+   "Küçük K.",
+   "Kavak A.",
+   "Yiğit H.",
+   "Özdemir C."
+  ],
+  "year": 2008,
+  "venue": "IEEE 16th Signal Processing and Communications Applications Conference, Aydın, Turkey, 20 - 22 April 2008",
+  "pages": "50-51",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "id": "c124"
+ },
+ {
+  "title": "A novel localization technique for wireless sensor networks using adaptive antenna arrays",
+  "authors": [
+   "Küçük K.",
+   "Kavak A.",
+   "Yiğit H.",
+   "Ozdemir C."
+  ],
+  "year": 2008,
+  "venue": "IEEE Radio and Wireless Symposium, Florida, United States Of America, 22 - 24 January 2008",
+  "pages": "483-484",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "id": "c125"
+ },
+ {
+  "title": "A smart antenna module using OMNeT++ for wireless sensor network simulation",
+  "authors": [
+   "Küçük K.",
+   "Kavak A.",
+   "Yiğit H."
+  ],
+  "year": 2007,
+  "venue": "4th IEEE International Symposium on Wireless Communication Systems 2007, ISWCS'07, Trondheim, Norway, 16 - 19 October 2007",
+  "pages": "747-751",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "id": "c126"
+ },
+ {
+  "title": "Kablosuz Algılayıcı Ağlar İçin Akıllı Anten Tabanlı Sektörel Tarama Protokolünün OMNeT ile Modellenmesi",
+  "authors": [
+   "Küçük K.",
+   "Yiğit H.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "III. İletişim Teknolojileri Ulusal Sempozyumu (İTUSEM 2007), Adana, Turkey, 18 - 19 October 2007",
+  "pages": "109-114",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "id": "c127"
+ },
+ {
+  "title": "Genetic Algorithm and Simulated Annealing for Dynamic OVSF Code Allocation in WCDMA Networks",
+  "authors": [
+   "Mustafa K.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "IEEE 15th Signal Processing and Communications Applications, 2007. SIU 2007., Eskişehir, Turkey, 11 - 13 June 2007",
+  "pages": "1-4",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c128"
+ },
+ {
+  "title": "Farklı Yayılım Senaryoları İçin Kablosuz MIMO Kanallarında Kapasite Analizi",
+  "authors": [
+   "Yiğit H.",
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "III. İletişim Teknolojileri Ulusal Sempozyumu (İTUSEM 2007), Adana, Turkey, 18 - 19 June 2007",
+  "pages": "253-256",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c129"
+ },
+ {
+  "title": "MATLAB GUI based sensor array processing estimation methods and performance analysis simulator",
+  "authors": [
+   "Küçük K.",
+   "Kelebekler E.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "IEEE 15th Signal Processing and Communications Applications Conference, Eskişehir, Turkey, 11 - 13 June 2007",
+  "pages": "298-299",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "IoT & Sensor Networks"
+  ],
+  "id": "c130"
+ },
+ {
+  "title": "Using diploidy genetic algorithm for dynamic OVSF code allocation in WCDMA networks",
+  "authors": [
+   "Karakoc M.",
+   "Soke A.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "IEEE Radio and Wireless Symposium, California, United States Of America, 7 - 12 January 2007",
+  "pages": "293-296",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c131"
+ },
+ {
+  "title": "A smart antenna module using OMNeT plus plus for wireless sensor network simulation",
+  "authors": [
+   "Küçük K.",
+   "Kavak A.",
+   "Yiğit H."
+  ],
+  "year": 2007,
+  "venue": "4th International Symposium on Wireless Communication Systems, Trondheim, Norway, 17 - 19 October 2007",
+  "pages": "489-493",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing",
+   "IoT & Sensor Networks"
+  ],
+  "id": "c132"
+ },
+ {
+  "title": "Stochastic methods for dynamic OVSF code assignment in 3G networks",
+  "authors": [
+   "Karakoc M.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "4th International Symposium on Stochastic Algorithms - Foundations and Applications, Zürich, Switzerland, 13 - 14 September 2007",
+  "pages": "142-143",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c133"
+ },
+ {
+  "title": "Evaluation of FPGA-based software radio beamformers for 3G wireless",
+  "authors": [
+   "Dikmese S.",
+   "Kavak A.",
+   "Şahin S.",
+   "Küçük K.",
+   "Dincer H."
+  ],
+  "year": 2007,
+  "venue": "IEEE Radio and Wireless Symposium, California, United States Of America, 7 - 12 January 2007",
+  "pages": "1-4",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c134"
+ },
+ {
+  "title": "A new dynamic OVSF code allocation method based on adaptive simulated annealing genetic algorithm (ASAGA)",
+  "authors": [
+   "Karakoc M.",
+   "Kavak A."
+  ],
+  "year": 2007,
+  "venue": "18th IEEE International Symposium on Personal, Indoor and Mobile Radio Communication, Athens, Greece, 3 - 07 September 2007",
+  "pages": "2923-2924",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c135"
+ },
+ {
+  "title": "Akıllı Anten Algoritmalarının IEEE 754 Kayan Sayı Formatı ile FPGA Tabanlı Gerçeklenmesi ve Performans Analizi",
+  "authors": [
+   "Çavuşlu M. A.",
+   "Dikmeşe Ş.",
+   "Şahin S.",
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2006,
+  "venue": "URSI Türkiye 2006 3. Bilimsel Kongresi, Ankara, Turkey, 6 - 08 September 2006",
+  "pages": "610-612",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c136"
+ },
+ {
+  "title": "Akıllı Antenler için DSP Tabanlı Uzay Kod Korelatör Algoritması Gerçeklenmesi ve Performans Analizi",
+  "authors": [
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2006,
+  "venue": "III. URSI-Türkiye 2006 Bilimsel Kongresi 2006, Turkey, 6 - 08 September 2006",
+  "pages": "610-612",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c137"
+ },
+ {
+  "title": "A comparative study of antenna array algorithm implementations using FPGA and DSP for cdma2000",
+  "authors": [
+   "Şahin S.",
+   "Dikmese S.",
+   "Küçük K.",
+   "Kavak A."
+  ],
+  "year": 2006,
+  "venue": "3rd International Symposium on Wireless Communication Systems (ISWCS 2006), Valencia, Spain, 5 - 08 September 2006",
+  "pages": "714-715",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c138"
+ },
+ {
+  "title": "C or Assembly Coding on Floating Point Digital Signal Processors for Software Radio Implementation of a Beamformer",
+  "authors": [
+   "Küçük K.",
+   "Kavak A.",
+   "Karakoç M.",
+   "Yiğit H."
+  ],
+  "year": 2005,
+  "venue": "International Informatics Congress (BİLTEK 2005), Eskişehir, Turkey, 10 - 12 June 2005",
+  "pages": "459-466",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c139"
+ },
+ {
+  "title": "C Versus Assembly Implementation of Smart Antenna Beamformers on Floating Point DSPs",
+  "authors": [
+   "Küçük K.",
+   "Kavak A.",
+   "Karakoç M.",
+   "Yiğit H."
+  ],
+  "year": 2005,
+  "venue": "International Informatics Congress (Biltek 2005), 10 - 12 June 2005",
+  "pages": "459-466",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c140"
+ },
+ {
+  "title": "Design and hardware implementation of a novel smart antenna algorithm using TI DSPs",
+  "authors": [
+   "Kucuk K.",
+   "Karakoc M.",
+   "Kavak A.",
+   "Yigit H."
+  ],
+  "year": 2005,
+  "venue": "2nd International Symposium on Wireless Communications Systems (ISWCS 2005), Siena, Italy, 5 - 07 September 2005",
+  "pages": "596-600",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c141"
+ },
+ {
+  "title": "Implementation of Several Smart Antenna Algorithms for cdma2000 Reverse Link on TMS320C6000 DSP Family",
+  "authors": [
+   "Küçük K.",
+   "Karakoç M.",
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "EDERS-2004: The European DSP Education and Research Symposium, 16 November 2004",
+  "pages": "1-6",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c142"
+ },
+ {
+  "title": "Autoregressive and Adaline Network Modeling for Wireless Communications",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A.",
+   "Ertunç H. M."
+  ],
+  "year": 2004,
+  "venue": "International Conference on Signals and Electronic Systems (ICSES 2004), Poznan, Poland, 13 - 15 September 2004",
+  "pages": "127-130",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c143"
+ },
+ {
+  "title": "Zaman Bölüşümlü Çift Yönlü Akıllı Anten Sistemleri İçin Uyarlamalı Doğrusal Tahmin Tabanlı Hüzme Şekillendirme",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "II. URSI-Türkiye Bilimsel Kongresi (URSI 2004), Ankara, Turkey, 8 - 10 September 2004",
+  "pages": "84-86",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c144"
+ },
+ {
+  "title": "Uyarlanabilir Akıllı Anten Algoritmalarının Yuvarlanır Nokta DSP Üzerinde Gerçekleştirilmesi Ve Karşılaştırılması",
+  "authors": [
+   "Küçük K.",
+   "Karakoç M.",
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "II. URSI-Türkiye 2004 Bilimsel Kongresi, Turkey, 8 - 10 September 2004",
+  "pages": "300-302",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c145"
+ },
+ {
+  "title": "3 Nesil Haberleşme Sistemlerinde Kullanılan Akıllı Anten Algoritmalarının Yazılım Radyo Kullanılarak Gerçekleştirilmesi",
+  "authors": [
+   "Küçük K.",
+   "Karakoç M.",
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "II. URSI-Türkiye 2004 Bilimsel Kongresi, Turkey, 8 - 10 September 2004",
+  "pages": "273-275",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c146"
+ },
+ {
+  "title": "Implementation and Performance Comparison of DSP Enabled LMS and CM Beamformers for cdma2000 Reverse Link",
+  "authors": [
+   "Küçük K.",
+   "Karakoç M.",
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "International Conference on Intelligent Knowledge Systems (IKS 2004), 16 - 20 August 2004",
+  "pages": "49-53",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c147"
+ },
+ {
+  "title": "Using Autoregressive and Adaline Neural Network Modeling to Improve Downlink Performance of Smart Antennas",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A.",
+   "Ertunç H. M."
+  ],
+  "year": 2004,
+  "venue": "IEEE International Conference on Mechatronics (ICM 2004), İstanbul, Turkey, 3 - 05 June 2004",
+  "pages": "165-170",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c148"
+ },
+ {
+  "title": "Using Autoregressive and Adaline Neural Network Modeling to Improve Dowlink Performance of Smart Antennas",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A.",
+   "Ertunç H. M."
+  ],
+  "year": 2004,
+  "venue": "Proceedings of the IEEE International Conference on Mechatronics, 3 - 05 June 2004",
+  "pages": "",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c149"
+ },
+ {
+  "title": "Performance Improvement via AR Modeling based Linear Prediction for Time Division Duplex TDD Smart Antenna Systems",
+  "authors": [
+   "Yiğit H.",
+   "Kavak A."
+  ],
+  "year": 2004,
+  "venue": "IEEE 12th Signal Processing and Communications Applications Conference (SIU 2004), Kuşadası, Aydın, Turkey, 28 - 30 April 2004",
+  "pages": "200-203",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c150"
+ },
+ {
+  "title": "Real Time Implemantation of LMS Beamformer for cdma2000 3G System Using TI tms320c6701",
+  "authors": [
+   "Küçük K.",
+   "Karakoç M.",
+   "Kavak A."
+  ],
+  "year": 2003,
+  "venue": "International Conference on Electrical and Electronics Engineering, ELECO'2003, 03 December 2003 - 05 November 2004",
+  "pages": "360-365",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c151"
+ },
+ {
+  "title": "Üçüncü Nesil WCDMA Sistemlerinde OVSF Kod Tahsisi Yöntemleri",
+  "authors": [
+   "Deveci Topal A.",
+   "Kavak A."
+  ],
+  "year": 2003,
+  "venue": "International Twelfth Turkish Symposium on Artificial Intelligence and Neural Networks, Çanakkale, Turkey, 2 - 04 July 2003",
+  "pages": "255-258",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c152"
+ },
+ {
+  "title": "Simulation and performance comparison of smart antenna algorithms for 3G wireless communications",
+  "authors": [
+   "Karakoc M.",
+   "Kavak A.",
+   "Yigit H."
+  ],
+  "year": 2003,
+  "venue": "International Conference on Computer, Communication and Control Technologies (CCCT 03)/9th International Conference on Information Systems Analysis and Synthesis (ISAS03), Florida, United States Of America, 31 July - 02 August 2003",
+  "pages": "45-50",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c153"
+ },
+ {
+  "title": "Interference analysis and capacity for mixture of forward link cdma2000-1X and 1xEV-DV voice traffic",
+  "authors": [
+   "Kavak A.",
+   "Cleveland J."
+  ],
+  "year": 2003,
+  "venue": "IEEE Radio and Wireless Conference (RAWCON 2003), Massachusetts, United States Of America, 10 - 13 August 2003",
+  "pages": "23-26",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c154"
+ },
+ {
+  "title": "Forward link capacity analysis of 3G CDMA wireless systems with adaptive antenna arrays",
+  "authors": [
+   "Kavak A.",
+   "Lim J.",
+   "Cleveland J."
+  ],
+  "year": 2001,
+  "venue": "54th IEEE Vehicular Technology Conference (VTC 2001), New-Jersey, United States Of America, 7 - 11 October 2001",
+  "pages": "2063-2066",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c155"
+ },
+ {
+  "title": "GPS multipath fade measurements to determine L-band ground reflectivity properties",
+  "authors": [
+   "Kavak A.",
+   "Xu G.",
+   "Vogel W. J."
+  ],
+  "year": 1996,
+  "venue": "Proceedings of the Twentieth NASA Propagation Experimenters Meeting (NAPEX 20) and the Advanced Communications Technology Satellite (ACTS) Propagation Studies Miniworkshop, Alaska, United States Of America, 4 - 06 June 1996",
+  "pages": "257-263",
+  "format": "Full Text",
+  "type": "conference",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "c156"
+ },
+ {
+  "title": "Symbiotic Sensing and Backscatter Communication for the Sustainable Internet of Things",
+  "authors": [
+   "Janjua M. B.",
+   "Etemoğlu Ç. Ö.",
+   "Solaija M. S. J.",
+   "Kavak A."
+  ],
+  "year": 2026,
+  "venue": "Signals and Communication Technology, Springer International Publishing Ag, pp.99-118, 2026",
+  "type": "book",
+  "topics": [
+   "6G & Next-Gen Networks",
+   "IoT & Sensor Networks"
+  ],
+  "id": "b157"
+ },
+ {
+  "title": "A Novel Signaling Protocol (ARCSPXP): Case Study on Synchronization of Educational Data",
+  "authors": [
+   "Eken S.",
+   "Kaya F.",
+   "Sayar A.",
+   "Kavak A.",
+   "İlhan Z.",
+   "Kocasaraç U."
+  ],
+  "year": 2017,
+  "venue": "Mobile Networks and Management, Ramón Agüero, Yasir Zaki, Bernd-Ludwig Wenning, Anna Förster, Andreas Timm-Giel, Editor, Springer International Publishing, 2017",
+  "type": "book",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "b158"
+ },
+ {
+  "title": "A Method for Localization of Computational Node and Proxy Server in Educational Data Synchronization",
+  "authors": [
+   "Kaya F.",
+   "Eken S.",
+   "Sayar A.",
+   "Kavak A.",
+   "Şahin S."
+  ],
+  "year": 2015,
+  "venue": "Wireless Internet Lecture Notes of the Inst A Method for Localization of Computational Node and Proxy Server in Educational Data Synchronization, Mumtaz, S., Rodriguez, J., Katz, M., Wang, C., Nascimento, A. (Eds.), Editor, Springer, pp.180-190, 2015",
+  "type": "book",
+  "topics": [
+   "Data, Cloud & Intelligent Systems"
+  ],
+  "id": "b159"
+ },
+ {
+  "title": "Implementation of floating point arithmetics using an FPGA",
+  "authors": [
+   "Şahin S.",
+   "Kavak A.",
+   "Becerikli Y.",
+   "Demiray H. E."
+  ],
+  "year": 2007,
+  "venue": "Mathematical Methods in Engineering Edits, K. Taş, J. A. Tenreiro Machado, D. Baleanu, Editor, Springer, pp.445- 453, 2007",
+  "type": "book",
+  "topics": [
+   "Smart Antennas & Signal Processing"
+  ],
+  "id": "b160"
+ }
+]

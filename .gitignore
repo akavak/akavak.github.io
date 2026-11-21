@@ -1,0 +1,26 @@
+# Dependencies & build output
+node_modules/
+.next/
+.next-dev/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# OS / editor
+.DS_Store
+~$*
+
+# Original source photos (may contain EXIF/GPS metadata)
+WhatsApp Image *
+*.heic
+*.HEIC
+
+# LaTeX build artefacts (the published CV lives in public/files/)
+CV/**/*.pdf
+*.aux
+*.log
+*.out
+*.xdv
+*.synctex.gz
+*.fls
+*.fdb_latexmk
