@@ -156,7 +156,7 @@ export default function ResearchPage() {
             <div key={g} style={{ marginBottom: 40 }}>
               <Reveal>
                 <h3 style={{ fontSize: 15, textTransform: "uppercase", letterSpacing: "0.14em", color: "var(--text-3)", marginBottom: 18 }}>
-                  {g === "Collaborators" ? "Visiting Researchers" : g === "Researchers" ? "Postdocs & PhD Students" : "Faculty Members"}
+                  {g === "Collaborators" ? "Visiting Researchers" : g === "Researchers" ? "Researchers" : "Team Members"}
                 </h3>
               </Reveal>
               <div className="team-grid">
