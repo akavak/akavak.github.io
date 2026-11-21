@@ -1,9 +1,9 @@
-import type { Metadata } from "next";
-import PageHero from "@/components/PageHero";
-import Reveal from "@/components/Reveal";
-import { awardIcon } from "@/components/awardIcons";
-import { awards } from "@/data/awards";
-import { service } from "@/data/profile";
+import type { Metadata } from "../../lib/site";
+import PageHero from "../../components/PageHero";
+import Reveal from "../../components/Reveal";
+import { awardIcon } from "../../components/awardIcons";
+import { awards } from "../../data/awards";
+import { service } from "../../data/profile";
 
 export const metadata: Metadata = {
   title: "Awards & Recognition",

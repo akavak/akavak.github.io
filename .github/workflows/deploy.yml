@@ -25,7 +25,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version-file: .nvmrc
           cache: npm
 
       # Reports where GitHub Pages serves this repository:
@@ -42,14 +42,18 @@ jobs:
       - name: Build static site
         run: npm run build
         env:
-          NEXT_PUBLIC_BASE_PATH: ${{ steps.pages.outputs.base_path }}
-          NEXT_PUBLIC_SITE_URL: ${{ steps.pages.outputs.base_url }}
-          NEXT_TELEMETRY_DISABLED: 1
+          SITE_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+          SITE_URL: ${{ steps.pages.outputs.base_url }}
 
-      - name: Verify export
+      - name: Verify static output
         run: |
           test -f out/index.html
           test -f out/404.html
+          test -f out/assets/bootstrap.min.css
+          test -f out/assets/site.css
+          test -f out/assets/site.js
+          test -f out/publications/index.html
+          test ! -d out/_next
           test -f out/.nojekyll
           test -f out/files/Adnan-Kavak-CV.pdf
           echo "Base path: '${{ steps.pages.outputs.base_path }}'  URL: ${{ steps.pages.outputs.base_url }}"

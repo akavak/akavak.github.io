@@ -1,21 +1,12 @@
-import type { Metadata } from "next";
-import SiteLink from "@/components/SiteLink";
-import { notFound } from "next/navigation";
-import { marked } from "marked";
+import type { Metadata } from "../../../lib/site";
+import SiteLink from "../../../components/SiteLink";
 import { ArrowLeft, ArrowUpRight, Clock } from "lucide-react";
-import CoverArt from "@/components/CoverArt";
-import { posts } from "@/data/blog";
-import { profile } from "@/data/profile";
-import { BASE_PATH, asset } from "@/lib/site";
+import CoverArt from "../../../components/CoverArt";
+import { posts } from "../../../data/blog";
+import { profile } from "../../../data/profile";
+import { BASE_PATH, asset } from "../../../lib/site";
 
-export function generateStaticParams() {
-  return posts.map((p) => ({ slug: p.slug }));
-}
-
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
-  const { slug } = await params;
-  const post = posts.find((p) => p.slug === slug);
-  if (!post) return {};
+export function postMetadata(post: (typeof posts)[number]): Metadata {
   return {
     title: post.title,
     description: post.excerpt,
@@ -25,10 +16,8 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 
 const fmt = (d: string) => new Date(d).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
 
-export default async function PostPage({ params }: { params: Promise<{ slug: string }> }) {
-  const { slug } = await params;
-  const post = posts.find((p) => p.slug === slug);
-  if (!post) notFound();
+export default async function PostPage(post: (typeof posts)[number]) {
+  const { marked } = await import("marked");
   // Root-relative markdown links need the base path on project-site deployments.
   const html = (await marked.parse(post.body.trim())).replace(/(href|src)="\/(?!\/)/g, `$1="${BASE_PATH}/`);
   const others = posts.filter((p) => p.slug !== post.slug).slice(0, 2);
@@ -62,7 +51,6 @@ export default async function PostPage({ params }: { params: Promise<{ slug: str
           <CoverArt variant={post.cover} />
           <div className="prose" dangerouslySetInnerHTML={{ __html: html }} />
           <div className="panel" style={{ display: "flex", gap: 20, alignItems: "center", marginTop: 56, flexWrap: "wrap" }}>
-            {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src={asset(profile.photoSquare)} alt="" width={72} height={72} style={{ borderRadius: "50%", width: 72, height: 72, objectFit: "cover" }} />
             <div style={{ flex: 1, minWidth: 220 }}>
               <strong style={{ color: "var(--text)", fontSize: 18 }}>{profile.fullName}</strong>

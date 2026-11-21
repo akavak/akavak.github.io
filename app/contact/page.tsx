@@ -1,10 +1,10 @@
-import type { Metadata } from "next";
+import type { Metadata } from "../../lib/site";
 import { Building2, Mail, MapPin, Phone } from "lucide-react";
-import PageHero from "@/components/PageHero";
-import Reveal from "@/components/Reveal";
-import Socials from "@/components/Socials";
-import ContactForm from "@/components/ContactForm";
-import { profile } from "@/data/profile";
+import PageHero from "../../components/PageHero";
+import Reveal from "../../components/Reveal";
+import Socials from "../../components/Socials";
+import ContactForm from "../../components/ContactForm";
+import { profile } from "../../data/profile";
 
 export const metadata: Metadata = {
   title: "Contact",

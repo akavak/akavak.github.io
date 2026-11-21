@@ -4,9 +4,8 @@
   "private": true,
   "description": "Academic portfolio of Prof. Dr. Adnan Kavak, Kocaeli University",
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
-    "start": "next build && npx --yes serve@14 out",
+    "build": "tsc && node .site-build/scripts/build-site.js",
+    "start": "npm run build && npm run preview",
     "preview": "npx --yes serve@14 out",
     "typecheck": "tsc --noEmit",
     "data:publications": "python3 scripts/parse_cv.py scripts/cv_clean.txt data/publications.json",
@@ -15,7 +14,6 @@
   "dependencies": {
     "lucide-react": "^1.77.0",
     "marked": "^18.2.1",
-    "next": "^15.5.29",
     "react": "^19.1.10",
     "react-dom": "^19.1.10"
   },
@@ -26,6 +24,6 @@
     "typescript": "^5.9.3"
   },
   "engines": {
-    "node": ">=18.18"
+    "node": ">=22.13"
   }
 }

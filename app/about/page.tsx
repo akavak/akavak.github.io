@@ -1,10 +1,10 @@
-import type { Metadata } from "next";
-import Link from "next/link";
+import type { Metadata } from "../../lib/site";
+import Link from "../../components/SiteLink";
 import { ArrowUpRight, Briefcase, Building2, Download, GraduationCap, Languages, PenTool } from "lucide-react";
-import PageHero from "@/components/PageHero";
-import Reveal from "@/components/Reveal";
-import Socials from "@/components/Socials";
-import { asset } from "@/lib/site";
+import PageHero from "../../components/PageHero";
+import Reveal from "../../components/Reveal";
+import Socials from "../../components/Socials";
+import { asset } from "../../lib/site";
 import {
   academicPositions,
   adminRoles,
@@ -14,7 +14,7 @@ import {
   languages,
   profile,
   service,
-} from "@/data/profile";
+} from "../../data/profile";
 
 export const metadata: Metadata = {
   title: "About",
@@ -55,7 +55,6 @@ export default function AboutPage() {
           <Reveal>
             <div className="hero-photo" style={{ justifySelf: "start", maxWidth: 400 }}>
               <div className="frame">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={asset(profile.photo)} alt={`Portrait of ${profile.fullName}`} width={400} height={500} />
               </div>
             </div>

@@ -1,4 +1,4 @@
-import raw from "@/data/publications.json";
+import raw from "../data/publications.json";
 
 export type PubType = "article" | "conference" | "book";
 

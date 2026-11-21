@@ -1,5 +1,5 @@
 import { Award, BadgeCheck, Landmark, Lightbulb, PenTool, type LucideIcon } from "lucide-react";
-import type { Award as AwardT } from "@/data/awards";
+import type { Award as AwardT } from "../data/awards";
 
 export const awardIcon: Record<AwardT["kind"], LucideIcon> = {
   Patent: Lightbulb,

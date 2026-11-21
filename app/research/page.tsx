@@ -1,15 +1,15 @@
-import type { Metadata } from "next";
-import Link from "next/link";
+import type { Metadata } from "../../lib/site";
+import Link from "../../components/SiteLink";
 import { ArrowUpRight, ExternalLink } from "lucide-react";
-import PageHero from "@/components/PageHero";
-import Reveal from "@/components/Reveal";
-import AreaIcon from "@/components/AreaIcon";
-import Counter from "@/components/Counter";
-import PubItem from "@/components/PubItem";
-import { researchAreas, wins } from "@/data/profile";
-import { projects } from "@/data/projects";
-import { publications } from "@/lib/pubs";
-import { asset } from "@/lib/site";
+import PageHero from "../../components/PageHero";
+import Reveal from "../../components/Reveal";
+import AreaIcon from "../../components/AreaIcon";
+import Counter from "../../components/Counter";
+import PubItem from "../../components/PubItem";
+import { researchAreas, wins } from "../../data/profile";
+import { projects } from "../../data/projects";
+import { publications } from "../../lib/pubs";
+import { asset } from "../../lib/site";
 
 export const metadata: Metadata = {
   title: "Research",
@@ -136,7 +136,6 @@ export default function ResearchPage() {
             </Reveal>
             <Reveal delay={0.1}>
               <div className="panel" style={{ display: "grid", placeItems: "center", padding: 56 }}>
-                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={asset(wins.logo)} alt="WINS Research Center logo" width={260} height={211} style={{ maxWidth: 260, width: "100%", height: "auto" }} />
                 <div className="grid-4" style={{ marginTop: 40, width: "100%", gap: 12 }}>
                   {wins.stats.map((s) => (

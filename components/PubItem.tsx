@@ -1,27 +1,14 @@
-"use client";
-
-import { useState } from "react";
-import { Check, Copy, ExternalLink, Quote, Search } from "lucide-react";
-import { bibtex, isSelf, scholarUrl, typeLabel, venueLine, type Publication } from "@/lib/pubs";
+import { Copy, ExternalLink, Quote, Search } from "lucide-react";
+import { bibtex, isSelf, scholarUrl, typeLabel, venueLine, type Publication } from "../lib/pubs";
 
 export default function PubItem({ p, showTopics = true }: { p: Publication; showTopics?: boolean }) {
-  const [showBib, setShowBib] = useState(false);
-  const [copied, setCopied] = useState(false);
   const bib = bibtex(p);
   const href = p.doi ? `https://doi.org/${p.doi}` : scholarUrl(p);
 
-  const copy = async () => {
-    try {
-      await navigator.clipboard.writeText(bib);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 1800);
-    } catch {
-      setShowBib(true);
-    }
-  };
-
   return (
-    <article className="pub">
+    <article className="pub" data-publication={p.type} data-year={p.year}
+      data-search={`${p.title} ${p.authors.join(" ")} ${p.venue} ${p.year}`}
+      data-topics={JSON.stringify(p.topics)} data-indexing={JSON.stringify(p.indexing || [])} data-doi={p.doi}>
       <div className="pub-year">
         {p.year}
         <small>{p.type === "article" ? "Journal" : p.type === "conference" ? "Conference" : "Chapter"}</small>
@@ -65,18 +52,16 @@ export default function PubItem({ p, showTopics = true }: { p: Publication; show
             <Search /> Scholar
           </a>
         )}
-        <button className="chip-btn" onClick={() => setShowBib((s) => !s)} aria-expanded={showBib}>
+        <button className="chip-btn" type="button" data-cite aria-expanded="false">
           <Quote /> Cite
         </button>
-        <button className="chip-btn" onClick={copy} aria-label={`Copy BibTeX for ${p.title}`}>
-          {copied ? <Check /> : <Copy />} {copied ? "Copied" : "BibTeX"}
+        <button className="chip-btn" type="button" data-copy aria-label={`Copy BibTeX for ${p.title}`}>
+          <Copy /> <span>BibTeX</span>
         </button>
       </div>
-      {showBib && (
-        <pre className="bib" aria-label={`BibTeX for ${typeLabel[p.type]}`}>
+      <pre hidden className="bib" aria-label={`BibTeX for ${typeLabel[p.type]}`}>
           {bib}
         </pre>
-      )}
     </article>
   );
 }

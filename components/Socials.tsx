@@ -1,5 +1,5 @@
 import { Mail } from "lucide-react";
-import { profile } from "@/data/profile";
+import { profile } from "../data/profile";
 import { AvesisIcon, LinkedInIcon, OrcidIcon, ScholarIcon } from "./BrandIcons";
 
 export default function Socials({ withEmail = false }: { withEmail?: boolean }) {

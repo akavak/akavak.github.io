@@ -28,3 +28,9 @@ His doctoral research examined radio propagation for smart antenna systems. Befo
 - [ORCID](https://orcid.org/0000-0001-5694-8042)
 - [WINS Research Center](https://avesis.kocaeli.edu.tr/arastirma-grubu/wins)
 - [akavak@kocaeli.edu.tr](mailto:akavak@kocaeli.edu.tr)
+
+## Build and preview
+
+Use Node.js 22. Run `npm ci`, then `npm run build` to generate the complete static site in `out/`. Run `npm run preview` to serve that directory locally. The shared templates render at build time. The browser receives HTML, Bootstrap and site CSS, and plain JavaScript for interactive controls.
+
+The GitHub Actions workflow deploys `out/` on pushes to `main`. In the repository’s GitHub Pages settings, use **GitHub Actions** as the source. The workflow supplies the public URL and path prefix automatically.

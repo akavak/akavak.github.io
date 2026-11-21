@@ -1,4 +1,4 @@
-import { countByYear } from "@/lib/pubs";
+import { countByYear } from "../lib/pubs";
 
 /** Stacked bar chart of publications per year (pure CSS, no chart library). */
 export default function YearChart() {

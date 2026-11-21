@@ -1,4 +1,4 @@
-import SiteLink from "@/components/SiteLink";
+import SiteLink from "./SiteLink";
 import type { ReactNode } from "react";
 
 export default function PageHero({

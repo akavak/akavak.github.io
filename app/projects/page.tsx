@@ -1,11 +1,11 @@
-import type { Metadata } from "next";
-import Link from "next/link";
+import type { Metadata } from "../../lib/site";
+import Link from "../../components/SiteLink";
 import { ArrowUpRight, ExternalLink, Lightbulb } from "lucide-react";
-import PageHero from "@/components/PageHero";
-import Reveal from "@/components/Reveal";
-import Counter from "@/components/Counter";
-import CoverArt from "@/components/CoverArt";
-import { patents, projects } from "@/data/projects";
+import PageHero from "../../components/PageHero";
+import Reveal from "../../components/Reveal";
+import Counter from "../../components/Counter";
+import CoverArt from "../../components/CoverArt";
+import { patents, projects } from "../../data/projects";
 
 export const metadata: Metadata = {
   title: "Projects & Patents",

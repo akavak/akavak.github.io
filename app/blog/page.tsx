@@ -1,10 +1,10 @@
-import type { Metadata } from "next";
-import Link from "next/link";
+import type { Metadata } from "../../lib/site";
+import Link from "../../components/SiteLink";
 import { ArrowUpRight, Clock } from "lucide-react";
-import PageHero from "@/components/PageHero";
-import Reveal from "@/components/Reveal";
-import CoverArt from "@/components/CoverArt";
-import { posts } from "@/data/blog";
+import PageHero from "../../components/PageHero";
+import Reveal from "../../components/Reveal";
+import CoverArt from "../../components/CoverArt";
+import { posts } from "../../data/blog";
 
 export const metadata: Metadata = {
   title: "Blog",

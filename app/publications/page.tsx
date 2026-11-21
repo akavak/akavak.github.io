@@ -1,13 +1,13 @@
-import type { Metadata } from "next";
+import type { Metadata } from "../../lib/site";
 import { ExternalLink } from "lucide-react";
-import PageHero from "@/components/PageHero";
-import Reveal from "@/components/Reveal";
-import Counter from "@/components/Counter";
-import YearChart from "@/components/YearChart";
-import PublicationsExplorer from "@/components/PublicationsExplorer";
-import { citationTable, profile } from "@/data/profile";
-import { stats } from "@/lib/pubs";
-import { ScholarIcon } from "@/components/BrandIcons";
+import PageHero from "../../components/PageHero";
+import Reveal from "../../components/Reveal";
+import Counter from "../../components/Counter";
+import YearChart from "../../components/YearChart";
+import PublicationsExplorer from "../../components/PublicationsExplorer";
+import { citationTable, profile } from "../../data/profile";
+import { stats } from "../../lib/pubs";
+import { ScholarIcon } from "../../components/BrandIcons";
 
 export const metadata: Metadata = {
   title: "Publications",

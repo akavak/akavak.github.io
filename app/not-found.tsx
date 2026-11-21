@@ -1,4 +1,4 @@
-import SiteLink from "@/components/SiteLink";
+import SiteLink from "../components/SiteLink";
 import { ArrowUpRight } from "lucide-react";
 
 export default function NotFound() {

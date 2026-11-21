@@ -1,7 +1,7 @@
-import SiteLink from "@/components/SiteLink";
-import { nav, profile } from "@/data/profile";
+import SiteLink from "./SiteLink";
+import { nav, profile } from "../data/profile";
 import Socials from "./Socials";
-import { asset } from "@/lib/site";
+import { asset } from "../lib/site";
 
 export default function Footer() {
   const year = new Date().getFullYear();

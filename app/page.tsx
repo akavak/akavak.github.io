@@ -1,18 +1,18 @@
-import Link from "next/link";
+import Link from "../components/SiteLink";
 import { ArrowUpRight, BookOpen, Briefcase, Check, Download, GraduationCap, PenTool, Sparkles } from "lucide-react";
-import { awardIcon } from "@/components/awardIcons";
-import Reveal from "@/components/Reveal";
-import Counter from "@/components/Counter";
-import Socials from "@/components/Socials";
-import PubItem from "@/components/PubItem";
-import CoverArt from "@/components/CoverArt";
-import AreaIcon from "@/components/AreaIcon";
-import { academicPositions, education, metrics, profile, researchAreas, wins } from "@/data/profile";
-import { projects } from "@/data/projects";
-import { awards } from "@/data/awards";
-import { posts } from "@/data/blog";
-import { featured, publications } from "@/lib/pubs";
-import { asset } from "@/lib/site";
+import { awardIcon } from "../components/awardIcons";
+import Reveal from "../components/Reveal";
+import Counter from "../components/Counter";
+import Socials from "../components/Socials";
+import PubItem from "../components/PubItem";
+import CoverArt from "../components/CoverArt";
+import AreaIcon from "../components/AreaIcon";
+import { academicPositions, education, metrics, profile, researchAreas, wins } from "../data/profile";
+import { projects } from "../data/projects";
+import { awards } from "../data/awards";
+import { posts } from "../data/blog";
+import { featured, publications } from "../lib/pubs";
+import { asset } from "../lib/site";
 
 const marqueeWords = [
   "6G Wireless",
@@ -78,7 +78,6 @@ export default function Home() {
 
             <Reveal delay={0.2} className="hero-photo">
               <div className="frame">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img src={asset(profile.photo)} alt={`Portrait of ${profile.fullName}`} width={420} height={525} />
               </div>
               <div className="spin-badge" aria-hidden="true">
